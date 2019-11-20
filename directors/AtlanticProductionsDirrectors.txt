@@ -1,0 +1,98 @@
+getting page
+extract text.
+printing text
+Title:  1969  Director:  Ernest Thompson  ProdDate: 1988
+Title:  Wild Thing  Director:  Max Reid  ProdDate: 1987
+######### Could not find director #########
+Title:  Apollo 11: The Untold Story  Director:  Tom Whitter  ProdDate: 2006 TV Movie
+######### Could not find director #########
+Title:  Flying Monsters 3D with David Attenborough  Director:  Matthew Dyas  ProdDate: 2011
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  England Made Me  Director:  Peter Duffell  ProdDate: 1973
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Penguins  Director:  Sias Wilson  ProdDate: 2012 Video
+######### Could not find director #########
+######### Could not find director #########
+Title:  Nefertiti Resurrected  Director:  Matthew Wortman  ProdDate: 2003 TV Movie
+Title:  Discovering the Real World of Harry Potter  Director:  Shaun Trevisick  ProdDate: 2001 TV Movie
+Title:  War of the Birds  Director:  Richard Cane
+Votes: 18 ProdDate: 2005 TV Movie
+Title:  Empires: Holy Warriors - Richard the Lionheart and Saladin  Director:  Richard Bedser  ProdDate: 2005 TV Movie
+Title:  The Coronation  Director:  Harvey Lilley  ProdDate: 2018
+Title:  Building the Impossible: The Seven Wonders of the Ancient World  Director:  Clive Maltby  ProdDate: 2000 TV Movie
+Title:  Apollo 13: The Inside Story  Director:  Tom Whitter  ProdDate: 2006 TV Movie
+Title:  The Conquistadors  Director:  Jason Hreno  ProdDate: 2001 TV Movie
+Title:  Legend of the Holy Spear  Director:  Tim Conrad  ProdDate: 2010 TV Movie
+######### Could not find director #########
+Title:  Hannibal v Rome  Director:  Richard Bedser  ProdDate: 2005 TV Movie
+Title:  Dream a Dream: Charlotte Church in the Holy Land  Director:  Kriss Russman  ProdDate: 2000 Video
+######### Could not find director #########
+Title:  The Link  Director:  Tim Walker
+Votes: 26 ProdDate: 2009 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Khubilai Khan: Fall of the Mongol Hordes  Director:  Alex Lay
+Votes: 14 ProdDate: 2005 TV Movie
+Title:  The Search for Atlantis  Director:  Shaun Trevisick  ProdDate: 2000 TV Movie
+Title:  Amazing Mighty Micro Monsters 3D  Director:  Michael Davis  ProdDate: 2015
+Title:  Jerusalem, City of Heaven  Director:  Tim Lambert
+Votes: 5 ProdDate: 1996 TV Movie
+Title:  Egypt's Ten Greatest Discoveries  Director:  Ben Mole  ProdDate: 2008 TV Movie
+Title:  Dino Gangs  Director:  Tim Walker  ProdDate: 2011
+Title:  Helena: First Pilgrim to the Holy Land  Director:  Chris Hooke  ProdDate: 2003 Video
+Title:  Wild Flight: Conquest of the Skies 3D  Director:  David Lee  ProdDate: 2016
+Title:  Star of Bethlehem  Director:  Tim Walker  ProdDate: 2008 TV Movie
+Title:  Secrets of the Great Plague  Director:  Tom Pollock  ProdDate: 2006 TV Movie
+######### Could not find director #########
+Title:  Predator X  Director:  Sid Bennett  ProdDate: 2009 TV Movie
+Title:  Attenborough at 90: Behind the Lens  Director:  Anne Sommerfield  ProdDate: 2016 TV Movie
+######### Could not find director #########
+Title:  Cradle of the Gods  Director:  Tim Conrad  ProdDate: 2012
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+Title:  Prohibition: Thirteen Years That Changed America  Director:  Clive Maltby  ProdDate: 1997 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Queen of Sheba: Behind the Myth  Director:  Alexander Dunlop  ProdDate: 2002 TV Movie
+Title:  King Tut's Mystery Tomb Opened  Director:  Tom Pollock
+Votes: 9 ProdDate: 2006 TV Movie
+Title:  David Attenborough Meets President Obama  Director:  Ruth Roberts  ProdDate: 2015 TV Movie
+Title:  Columbus: Secrets from the Grave  Director:  Lisa Harney
+Votes: 21 ProdDate: 2004 TV Movie
+Title:  Volcanic Ash: The Ticking Timebomb  Director:  Tim Conrad  ProdDate: 2010 TV Movie
+Title:  Robert Hanssen: Double Agent Revealed  Director:  Andy Webb  ProdDate: 2007 TV Movie
+Title:  Engineering the Impossible: Egypt  Director:  Alex Hearle  ProdDate: 2010 TV Movie
+######### Could not find director #########
+Title:  Adventure Bhutan  Director:  Scott Welsh ProdDate: 2007 TV Movie
+Title:  The War on Britain's Jews?  Director:  Dimitri Collingridge  ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  Secrets of Herod's Reign  Director:  Nigel Levy ProdDate: 2006 TV Movie
+Title:  Jack the Ripper: Case Unsolved  Director:  Dan Oliver
+Votes: 7 ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  Secrets of Herod's Reign  Director:  Nigel Levy  ProdDate: 2006
+######### Could not find director #########
+Title:  Seven Wonders of Ancient Egypt  Director:  Clive Maltby  ProdDate: 2004 TV Movie
+Title:  The Mysterious Death of Cleopatra  Director:  Lisa Harney  ProdDate: 2004 TV Movie
+Title:  Discovery Atlas  Director:  Michael Lynch  ProdDate: 2006–2008
+######### Could not find director #########
+######### Could not find director #########
+Title:  Revealed  Director:  Richard Bedser  ProdDate: 2002– 
+Title:  Revealed  Director:  Dan Oliver  ProdDate: 2002– 
+Title:  Revealed  Director:  Andy Webb  ProdDate: 2002– 
+Title:  Terra X - Rätsel alter Weltkulturen  Director:  Tim Walker  ProdDate: 1982– 
+######### Could not find director #########
+Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+Close Browser

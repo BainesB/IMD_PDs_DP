@@ -1,0 +1,221 @@
+getting page
+extract text.
+printing text
+Title:  Journey to the Edge of the Universe  Director:  Yavar Abbas  ProdDate: 2008 TV Movie
+######### Could not find director #########
+Title:  Inside the Living Body  Director:  Martin Williams  ProdDate: 2007 TV Movie
+Title:  Earth: Making of a Planet  Director:  Yavar Abbas  ProdDate: 2011 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Keys to the Castle  Director:  Stuart Everett  ProdDate: 2006 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  How the Earth Was Made  Director:  Peter Chinn  ProdDate: 2007 TV Movie
+Title:  Down to the Earth's Core  Director:  Yavar Abbas  ProdDate: 2012 TV Movie
+Title:  Bloody Queens: Elizabeth and Mary  Director:  Renny Bartlett  ProdDate: 2016 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Inside Planet Earth  Director:  Martin Williams  ProdDate: 2009 TV Movie
+Title:  Hindenburg  Director:  Sean Grundy  ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  Top 10 Natural Disasters  Director:  Jeremy Turner  ProdDate: 2013 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Killer Volcanoes  Director:  Patrick Fleming  ProdDate: 2000 TV Movie
+Title:  Worst Weather Ever  Director:  George Harris
+Votes: 12 ProdDate: 2013 TV Movie
+Title:  The Unsinkable Titanic  Director:  Patrick Reams  ProdDate: 2008 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  In the Womb: Extreme Animals  Director:  Peter Chinn
+Votes: 8 ProdDate: 2009 TV Movie
+######### Could not find director #########
+Title:  Animals in the Womb  Director:  Yavar Abbas  ProdDate: 2006 TV Movie
+Title:  Keys to the Castle: France  Director:  Patrick Fleming  ProdDate: 2008 TV Movie
+######### Could not find director #########
+Title:  UFO UK: New Evidence  Director:  Kasia Uscinska  ProdDate: 2011 TV Movie
+Title:  Mile Wide Tornado: Oklahoma Disaster  Director:  Sarah Hunt  ProdDate: 2013 TV Movie
+Title:  Super Tornado  Director:  Sarah Hunt  ProdDate: 2013 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Exodus Earth  Director:  Stephen Marsh  ProdDate: 1999 TV Movie
+Title:  A Global Warning?  Director:  Alex Hearle
+Votes: 34 ProdDate: 2007 TV Movie
+Title:  Curiosity: Mankind Rising  Director:  Yavar Abbas
+Votes: 18 ProdDate: 2012 TV Movie
+######### Could not find director #########
+Title:  In the Womb: Multiples  Director:  Lorne Townend  ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  Naked Alaska  Director:  Robert Strange  ProdDate: 2010 TV Movie
+Title:  The Secret of Christ's Tomb  Director:  Robert Strange  ProdDate: 2017 TV Movie
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+Title:  Space Shuttle: Human Time Bomb?  Director:  Alex Hearle  ProdDate: 2003 TV Movie
+Title:  Krakatoa  Director:  Jeremy Hall
+Votes: 10 ProdDate: 2005
+Title:  Extreme Machines: Incredible Motorcycle Jumpers  Director:  Stephen Marsh  ProdDate: 2000 TV Movie
+######### Could not find director #########
+Title:  The Storms That Stole Christmas  Director:  Phil Stein  ProdDate: 2014
+######### Could not find director #########
+Title:  Meteor Strike: Fireball from Space  Director:  Andrew Barron  ProdDate: 2013 TV Special
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Storm City 3D  Director:  Ian A. Hunt  ProdDate: 2012
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Floods: The Year Britain Went Under  Director:  Chris Holt  ProdDate: 2007 TV Movie
+Title:  The Floods That Foiled New Year: Caught on Camera  Director:  Phil Stein  ProdDate: 2014
+######### Could not find director #########
+Title:  The Year Britain Flooded  Director:  Toral Dixit ProdDate: 2013 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Superstorm New York: What Really Happened  Director:  Matt Currington  ProdDate: 2012 TV Movie
+Title:  Extreme Machines: Land Speed III - Extreme Rides  Director:  Stephen Marsh ProdDate: 2000 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Drugged: High on Cocaine  Director:  Lorne Townsend ProdDate: 2011 TV Movie
+Title:  The Volcano That Stopped Britain  Director:  Brian Leckey  ProdDate: 2010 TV Movie
+Title:  Steve Jobs - iChanged The World  Director:  Bob Strange  ProdDate: 2011
+Title:  SARS: Killer Bug  Director:  Lara Acaster ProdDate: 2003 TV Movie
+Title:  Extreme Machines: Speed Freaks II - Car Crash  Director:  Brian Leckey ProdDate: 1999 TV Movie
+######### Could not find director #########
+Title:  Naked Science  Director:  Yavar Abbas  ProdDate: 2004– 
+Title:  Naked Science  Director:  Stuart Everett  ProdDate: 2004– 
+######### Could not find director #########
+Title:  Naked Science  Director:  Simon Ludgate  ProdDate: 2004– 
+Title:  Naked Science  Director:  Stuart Everett  ProdDate: 2004– 
+Title:  Naked Science  Director:  Martin Williams  ProdDate: 2004– 
+Title:  Naked Science  Director:  Martin Gorst  ProdDate: 2004– 
+Title:  Naked Science  Director:  Simon Ludgate  ProdDate: 2004– 
+Title:  Secrets of the Dead  Director:  Alex Hearle  ProdDate: 2000– 
+######### Could not find director #########
+Title:  Naked Science  Director:  Stephen Carroll  ProdDate: 2004– 
+Title:  Naked Science  Director:  Tom Stubberfield  ProdDate: 2004– 
+Title:  Naked Science  Director:  Alex Hearle  ProdDate: 2004– 
+Title:  Naked Science  Director:  Neil Ferguson  ProdDate: 2004– 
+Title:  Naked Science  Director:  Christina Bavetta  ProdDate: 2004– 
+######### Could not find director #########
+Title:  Naked Science  Director:  Yavar Abbas  ProdDate: 2004– 
+Title:  Equinox  Director:  Richard Burke-Ward  ProdDate: 1986– 
+Close Browser
+getting page
+extract text.
+printing text
+Title:  Nova  Director:  John Rubin  ProdDate: 1974– 
+Title:  Naked Science  Director:  Susannah Ward  ProdDate: 2004– 
+Title:  Naked Science  Director:  Caius Julyan  ProdDate: 2004– 
+Title:  Naked Science  Director:  Sara Kenney  ProdDate: 2004– 
+Title:  Revealed  Director:  Chris Holt  ProdDate: 2002– 
+Title:  TV Burp  Director:  Peter Orton  ProdDate: 2001– 
+Title:  How the Earth Was Made  Director:  Paul Nelson  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Michael Beckham  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  David Hutt  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kate Dart  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Michael Beckham  ProdDate: 2009– 
+######### Could not find director #########
+Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  David Hutt  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Gabriella Polletta  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Robert Strange  ProdDate: 2009– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Belinda Kirk  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Robert Strange  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Kate Dart  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Louise Astbury  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+Title:  How the Earth Was Made  Director:  Ben Lawrie  ProdDate: 2009– 
+######### Could not find director #########
+Title:  How the Universe Works  Director:  Louise Say  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Shaun Trevisick  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Peter Chinn  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Shaun Trevisick  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Louise Say  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Lorne Townend  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Peter Chinn  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Lorne Townend  ProdDate: 2010– 
+Title:  Curiosity  Director:  Richard Max  ProdDate: 2011– 
+Title:  Curiosity  Director:  Susannah Ward  ProdDate: 2011– 
+Title:  Secrets of the Manor House  Director:  Susannah Ward  ProdDate: 2012– 
+Title:  How the Universe Works  Director:  Alex Hearle  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Alex Hearle  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Kate Dart  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Adam Warner  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Adam Warner  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  George Harris  ProdDate: 2010– 
+Close Browser
+getting page
+extract text.
+printing text
+Title:  How the Universe Works  Director:  George Harris  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Kate Dart  ProdDate: 2010– 
+Title:  How Drugs Work  Director:  Gabriella Polletta  ProdDate: 2011– 
+Title:  How Drugs Work  Director:  Bruce Fletcher  ProdDate: 2011– 
+Title:  How Drugs Work  Director:  Tom Pearson  ProdDate: 2011– 
+######### Could not find director #########
+Title:  Extreme Homes  Director:  Tina Jenkins  ProdDate: 2012– 
+Title:  Extreme Homes  Director:  Ann Lalic  ProdDate: 2012– 
+Title:  Extreme Homes  Director:  David Caldwell-Evans  ProdDate: 2012– 
+Title:  Extreme Homes  Director:  Vicky Matthews  ProdDate: 2012– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Extreme Homes  Director:  Louise Say  ProdDate: 2012– 
+######### Could not find director #########
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Secrets of Britain  Director:  Susannah Ward  ProdDate: 2013– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+######### Could not find director #########
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+######### Could not find director #########
+Close Browser

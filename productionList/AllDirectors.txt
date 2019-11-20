@@ -1,0 +1,2524 @@
+98
+0 getting page
+
+1 extract text.
+
+2 printing text
+
+3 Title:  1969  Director:  Ernest Thompson  ProdDate: 1988
+
+4 Title:  Wild Thing  Director:  Max Reid  ProdDate: 1987
+
+5 ######### Could not find director #########
+
+6 Title:  Apollo 11: The Untold Story  Director:  Tom Whitter  ProdDate: 2006 TV Movie
+
+7 ######### Could not find director #########
+
+8 Title:  Flying Monsters 3D with David Attenborough  Director:  Matthew Dyas  ProdDate: 2011
+
+9 ######### Could not find director #########
+
+10 ######### Could not find director #########
+
+11 ######### Could not find director #########
+
+12 ######### Could not find director #########
+
+13 ######### Could not find director #########
+
+14 Title:  England Made Me  Director:  Peter Duffell  ProdDate: 1973
+
+15 ######### Could not find director #########
+
+16 ######### Could not find director #########
+
+17 ######### Could not find director #########
+
+18 ######### Could not find director #########
+
+19 Title:  Penguins  Director:  Sias Wilson  ProdDate: 2012 Video
+
+20 ######### Could not find director #########
+
+21 ######### Could not find director #########
+
+22 Title:  Nefertiti Resurrected  Director:  Matthew Wortman  ProdDate: 2003 TV Movie
+
+23 Title:  Discovering the Real World of Harry Potter  Director:  Shaun Trevisick  ProdDate: 2001 TV Movie
+
+24 Title:  War of the Birds  Director:  Richard Cane
+
+25 Votes: 18 ProdDate: 2005 TV Movie
+
+26 Title:  Empires: Holy Warriors - Richard the Lionheart and Saladin  Director:  Richard Bedser  ProdDate: 2005 TV Movie
+
+27 Title:  The Coronation  Director:  Harvey Lilley  ProdDate: 2018
+
+28 Title:  Building the Impossible: The Seven Wonders of the Ancient World  Director:  Clive Maltby  ProdDate: 2000 TV Movie
+
+29 Title:  Apollo 13: The Inside Story  Director:  Tom Whitter  ProdDate: 2006 TV Movie
+
+30 Title:  The Conquistadors  Director:  Jason Hreno  ProdDate: 2001 TV Movie
+
+31 Title:  Legend of the Holy Spear  Director:  Tim Conrad  ProdDate: 2010 TV Movie
+
+32 ######### Could not find director #########
+
+33 Title:  Hannibal v Rome  Director:  Richard Bedser  ProdDate: 2005 TV Movie
+
+34 Title:  Dream a Dream: Charlotte Church in the Holy Land  Director:  Kriss Russman  ProdDate: 2000 Video
+
+35 ######### Could not find director #########
+
+36 Title:  The Link  Director:  Tim Walker
+
+37 Votes: 26 ProdDate: 2009 TV Movie
+
+38 ######### Could not find director #########
+
+39 ######### Could not find director #########
+
+40 Title:  Khubilai Khan: Fall of the Mongol Hordes  Director:  Alex Lay
+
+41 Votes: 14 ProdDate: 2005 TV Movie
+
+42 Title:  The Search for Atlantis  Director:  Shaun Trevisick  ProdDate: 2000 TV Movie
+
+43 Title:  Amazing Mighty Micro Monsters 3D  Director:  Michael Davis  ProdDate: 2015
+
+44 Title:  Jerusalem, City of Heaven  Director:  Tim Lambert
+
+45 Votes: 5 ProdDate: 1996 TV Movie
+
+46 Title:  Egypt's Ten Greatest Discoveries  Director:  Ben Mole  ProdDate: 2008 TV Movie
+
+47 Title:  Dino Gangs  Director:  Tim Walker  ProdDate: 2011
+
+48 Title:  Helena: First Pilgrim to the Holy Land  Director:  Chris Hooke  ProdDate: 2003 Video
+
+49 Title:  Wild Flight: Conquest of the Skies 3D  Director:  David Lee  ProdDate: 2016
+
+50 Title:  Star of Bethlehem  Director:  Tim Walker  ProdDate: 2008 TV Movie
+
+51 Title:  Secrets of the Great Plague  Director:  Tom Pollock  ProdDate: 2006 TV Movie
+
+52 ######### Could not find director #########
+
+53 Title:  Predator X  Director:  Sid Bennett  ProdDate: 2009 TV Movie
+
+54 Title:  Attenborough at 90: Behind the Lens  Director:  Anne Sommerfield  ProdDate: 2016 TV Movie
+
+55 ######### Could not find director #########
+
+56 Title:  Cradle of the Gods  Director:  Tim Conrad  ProdDate: 2012
+
+57 Close Browser
+
+58 getting page
+
+59 extract text.
+
+60 printing text
+
+61 ######### Could not find director #########
+
+62 Title:  Prohibition: Thirteen Years That Changed America  Director:  Clive Maltby  ProdDate: 1997 TV Movie
+
+63 ######### Could not find director #########
+
+64 ######### Could not find director #########
+
+65 Title:  Queen of Sheba: Behind the Myth  Director:  Alexander Dunlop  ProdDate: 2002 TV Movie
+
+66 Title:  King Tut's Mystery Tomb Opened  Director:  Tom Pollock
+
+67 Votes: 9 ProdDate: 2006 TV Movie
+
+68 Title:  David Attenborough Meets President Obama  Director:  Ruth Roberts  ProdDate: 2015 TV Movie
+
+69 Title:  Columbus: Secrets from the Grave  Director:  Lisa Harney
+
+70 Votes: 21 ProdDate: 2004 TV Movie
+
+71 Title:  Volcanic Ash: The Ticking Timebomb  Director:  Tim Conrad  ProdDate: 2010 TV Movie
+
+72 Title:  Robert Hanssen: Double Agent Revealed  Director:  Andy Webb  ProdDate: 2007 TV Movie
+
+73 Title:  Engineering the Impossible: Egypt  Director:  Alex Hearle  ProdDate: 2010 TV Movie
+
+74 ######### Could not find director #########
+
+75 Title:  Adventure Bhutan  Director:  Scott Welsh ProdDate: 2007 TV Movie
+
+76 Title:  The War on Britain's Jews?  Director:  Dimitri Collingridge  ProdDate: 2007 TV Movie
+
+77 ######### Could not find director #########
+
+78 Title:  Secrets of Herod's Reign  Director:  Nigel Levy ProdDate: 2006 TV Movie
+
+79 Title:  Jack the Ripper: Case Unsolved  Director:  Dan Oliver
+
+80 Votes: 7 ProdDate: 2007 TV Movie
+
+81 ######### Could not find director #########
+
+82 Title:  Secrets of Herod's Reign  Director:  Nigel Levy  ProdDate: 2006
+
+83 ######### Could not find director #########
+
+84 Title:  Seven Wonders of Ancient Egypt  Director:  Clive Maltby  ProdDate: 2004 TV Movie
+
+85 Title:  The Mysterious Death of Cleopatra  Director:  Lisa Harney  ProdDate: 2004 TV Movie
+
+86 Title:  Discovery Atlas  Director:  Michael Lynch  ProdDate: 2006–2008
+
+87 ######### Could not find director #########
+
+88 ######### Could not find director #########
+
+89 Title:  Revealed  Director:  Richard Bedser  ProdDate: 2002– 
+
+90 Title:  Revealed  Director:  Dan Oliver  ProdDate: 2002– 
+
+91 Title:  Revealed  Director:  Andy Webb  ProdDate: 2002– 
+
+92 Title:  Terra X - Rätsel alter Weltkulturen  Director:  Tim Walker  ProdDate: 1982– 
+
+93 ######### Could not find director #########
+
+94 Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+
+95 Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+
+96 Title:  Galapagos  Director:  Michael Davis  ProdDate: 2017
+
+97 Close Browser
+
+221
+0 getting page
+
+1 extract text.
+
+2 printing text
+
+3 Title:  Journey to the Edge of the Universe  Director:  Yavar Abbas  ProdDate: 2008 TV Movie
+
+4 ######### Could not find director #########
+
+5 Title:  Inside the Living Body  Director:  Martin Williams  ProdDate: 2007 TV Movie
+
+6 Title:  Earth: Making of a Planet  Director:  Yavar Abbas  ProdDate: 2011 TV Movie
+
+7 ######### Could not find director #########
+
+8 ######### Could not find director #########
+
+9 Title:  Keys to the Castle  Director:  Stuart Everett  ProdDate: 2006 TV Movie
+
+10 ######### Could not find director #########
+
+11 ######### Could not find director #########
+
+12 ######### Could not find director #########
+
+13 Title:  How the Earth Was Made  Director:  Peter Chinn  ProdDate: 2007 TV Movie
+
+14 Title:  Down to the Earth's Core  Director:  Yavar Abbas  ProdDate: 2012 TV Movie
+
+15 Title:  Bloody Queens: Elizabeth and Mary  Director:  Renny Bartlett  ProdDate: 2016 TV Movie
+
+16 ######### Could not find director #########
+
+17 ######### Could not find director #########
+
+18 ######### Could not find director #########
+
+19 ######### Could not find director #########
+
+20 Title:  Inside Planet Earth  Director:  Martin Williams  ProdDate: 2009 TV Movie
+
+21 Title:  Hindenburg  Director:  Sean Grundy  ProdDate: 2007 TV Movie
+
+22 ######### Could not find director #########
+
+23 Title:  Top 10 Natural Disasters  Director:  Jeremy Turner  ProdDate: 2013 TV Movie
+
+24 ######### Could not find director #########
+
+25 ######### Could not find director #########
+
+26 ######### Could not find director #########
+
+27 ######### Could not find director #########
+
+28 Title:  Killer Volcanoes  Director:  Patrick Fleming  ProdDate: 2000 TV Movie
+
+29 Title:  Worst Weather Ever  Director:  George Harris
+
+30 Votes: 12 ProdDate: 2013 TV Movie
+
+31 Title:  The Unsinkable Titanic  Director:  Patrick Reams  ProdDate: 2008 TV Movie
+
+32 ######### Could not find director #########
+
+33 ######### Could not find director #########
+
+34 ######### Could not find director #########
+
+35 Title:  In the Womb: Extreme Animals  Director:  Peter Chinn
+
+36 Votes: 8 ProdDate: 2009 TV Movie
+
+37 ######### Could not find director #########
+
+38 Title:  Animals in the Womb  Director:  Yavar Abbas  ProdDate: 2006 TV Movie
+
+39 Title:  Keys to the Castle: France  Director:  Patrick Fleming  ProdDate: 2008 TV Movie
+
+40 ######### Could not find director #########
+
+41 Title:  UFO UK: New Evidence  Director:  Kasia Uscinska  ProdDate: 2011 TV Movie
+
+42 Title:  Mile Wide Tornado: Oklahoma Disaster  Director:  Sarah Hunt  ProdDate: 2013 TV Movie
+
+43 Title:  Super Tornado  Director:  Sarah Hunt  ProdDate: 2013 TV Movie
+
+44 ######### Could not find director #########
+
+45 ######### Could not find director #########
+
+46 ######### Could not find director #########
+
+47 Title:  Exodus Earth  Director:  Stephen Marsh  ProdDate: 1999 TV Movie
+
+48 Title:  A Global Warning?  Director:  Alex Hearle
+
+49 Votes: 34 ProdDate: 2007 TV Movie
+
+50 Title:  Curiosity: Mankind Rising  Director:  Yavar Abbas
+
+51 Votes: 18 ProdDate: 2012 TV Movie
+
+52 ######### Could not find director #########
+
+53 Title:  In the Womb: Multiples  Director:  Lorne Townend  ProdDate: 2007 TV Movie
+
+54 ######### Could not find director #########
+
+55 Title:  Naked Alaska  Director:  Robert Strange  ProdDate: 2010 TV Movie
+
+56 Title:  The Secret of Christ's Tomb  Director:  Robert Strange  ProdDate: 2017 TV Movie
+
+57 Close Browser
+
+58 getting page
+
+59 extract text.
+
+60 printing text
+
+61 ######### Could not find director #########
+
+62 Title:  Space Shuttle: Human Time Bomb?  Director:  Alex Hearle  ProdDate: 2003 TV Movie
+
+63 Title:  Krakatoa  Director:  Jeremy Hall
+
+64 Votes: 10 ProdDate: 2005
+
+65 Title:  Extreme Machines: Incredible Motorcycle Jumpers  Director:  Stephen Marsh  ProdDate: 2000 TV Movie
+
+66 ######### Could not find director #########
+
+67 Title:  The Storms That Stole Christmas  Director:  Phil Stein  ProdDate: 2014
+
+68 ######### Could not find director #########
+
+69 Title:  Meteor Strike: Fireball from Space  Director:  Andrew Barron  ProdDate: 2013 TV Special
+
+70 ######### Could not find director #########
+
+71 ######### Could not find director #########
+
+72 ######### Could not find director #########
+
+73 ######### Could not find director #########
+
+74 Title:  Storm City 3D  Director:  Ian A. Hunt  ProdDate: 2012
+
+75 ######### Could not find director #########
+
+76 ######### Could not find director #########
+
+77 ######### Could not find director #########
+
+78 Title:  Floods: The Year Britain Went Under  Director:  Chris Holt  ProdDate: 2007 TV Movie
+
+79 Title:  The Floods That Foiled New Year: Caught on Camera  Director:  Phil Stein  ProdDate: 2014
+
+80 ######### Could not find director #########
+
+81 Title:  The Year Britain Flooded  Director:  Toral Dixit ProdDate: 2013 TV Movie
+
+82 ######### Could not find director #########
+
+83 ######### Could not find director #########
+
+84 Title:  Superstorm New York: What Really Happened  Director:  Matt Currington  ProdDate: 2012 TV Movie
+
+85 Title:  Extreme Machines: Land Speed III - Extreme Rides  Director:  Stephen Marsh ProdDate: 2000 TV Movie
+
+86 ######### Could not find director #########
+
+87 ######### Could not find director #########
+
+88 Title:  Drugged: High on Cocaine  Director:  Lorne Townsend ProdDate: 2011 TV Movie
+
+89 Title:  The Volcano That Stopped Britain  Director:  Brian Leckey  ProdDate: 2010 TV Movie
+
+90 Title:  Steve Jobs - iChanged The World  Director:  Bob Strange  ProdDate: 2011
+
+91 Title:  SARS: Killer Bug  Director:  Lara Acaster ProdDate: 2003 TV Movie
+
+92 Title:  Extreme Machines: Speed Freaks II - Car Crash  Director:  Brian Leckey ProdDate: 1999 TV Movie
+
+93 ######### Could not find director #########
+
+94 Title:  Naked Science  Director:  Yavar Abbas  ProdDate: 2004– 
+
+95 Title:  Naked Science  Director:  Stuart Everett  ProdDate: 2004– 
+
+96 ######### Could not find director #########
+
+97 Title:  Naked Science  Director:  Simon Ludgate  ProdDate: 2004– 
+
+98 Title:  Naked Science  Director:  Stuart Everett  ProdDate: 2004– 
+
+99 Title:  Naked Science  Director:  Martin Williams  ProdDate: 2004– 
+
+100 Title:  Naked Science  Director:  Martin Gorst  ProdDate: 2004– 
+
+101 Title:  Naked Science  Director:  Simon Ludgate  ProdDate: 2004– 
+
+102 Title:  Secrets of the Dead  Director:  Alex Hearle  ProdDate: 2000– 
+
+103 ######### Could not find director #########
+
+104 Title:  Naked Science  Director:  Stephen Carroll  ProdDate: 2004– 
+
+105 Title:  Naked Science  Director:  Tom Stubberfield  ProdDate: 2004– 
+
+106 Title:  Naked Science  Director:  Alex Hearle  ProdDate: 2004– 
+
+107 Title:  Naked Science  Director:  Neil Ferguson  ProdDate: 2004– 
+
+108 Title:  Naked Science  Director:  Christina Bavetta  ProdDate: 2004– 
+
+109 ######### Could not find director #########
+
+110 Title:  Naked Science  Director:  Yavar Abbas  ProdDate: 2004– 
+
+111 Title:  Equinox  Director:  Richard Burke-Ward  ProdDate: 1986– 
+
+112 Close Browser
+
+113 getting page
+
+114 extract text.
+
+115 printing text
+
+116 Title:  Nova  Director:  John Rubin  ProdDate: 1974– 
+
+117 Title:  Naked Science  Director:  Susannah Ward  ProdDate: 2004– 
+
+118 Title:  Naked Science  Director:  Caius Julyan  ProdDate: 2004– 
+
+119 Title:  Naked Science  Director:  Sara Kenney  ProdDate: 2004– 
+
+120 Title:  Revealed  Director:  Chris Holt  ProdDate: 2002– 
+
+121 Title:  TV Burp  Director:  Peter Orton  ProdDate: 2001– 
+
+122 Title:  How the Earth Was Made  Director:  Paul Nelson  ProdDate: 2009– 
+
+123 Title:  How the Earth Was Made  Director:  Michael Beckham  ProdDate: 2009– 
+
+124 Title:  How the Earth Was Made  Director:  David Hutt  ProdDate: 2009– 
+
+125 Title:  How the Earth Was Made  Director:  Kate Dart  ProdDate: 2009– 
+
+126 Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+
+127 Title:  How the Earth Was Made  Director:  Michael Beckham  ProdDate: 2009– 
+
+128 ######### Could not find director #########
+
+129 Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+
+130 Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+
+131 Title:  How the Earth Was Made  Director:  David Hutt  ProdDate: 2009– 
+
+132 Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+
+133 Title:  How the Earth Was Made  Director:  Gabriella Polletta  ProdDate: 2009– 
+
+134 Title:  How the Earth Was Made  Director:  Robert Strange  ProdDate: 2009– 
+
+135 ######### Could not find director #########
+
+136 ######### Could not find director #########
+
+137 Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+
+138 Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+
+139 Title:  How the Earth Was Made  Director:  Belinda Kirk  ProdDate: 2009– 
+
+140 Title:  How the Earth Was Made  Director:  Robert Strange  ProdDate: 2009– 
+
+141 Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+
+142 Title:  How the Earth Was Made  Director:  Rachel Scarrott  ProdDate: 2009– 
+
+143 Title:  How the Earth Was Made  Director:  Kathryn Johnson  ProdDate: 2009– 
+
+144 Title:  How the Earth Was Made  Director:  Kate Dart  ProdDate: 2009– 
+
+145 Title:  How the Earth Was Made  Director:  Louise Astbury  ProdDate: 2009– 
+
+146 Title:  How the Earth Was Made  Director:  Stefanie Kern  ProdDate: 2009– 
+
+147 Title:  How the Earth Was Made  Director:  Ben Lawrie  ProdDate: 2009– 
+
+148 ######### Could not find director #########
+
+149 Title:  How the Universe Works  Director:  Louise Say  ProdDate: 2010– 
+
+150 Title:  How the Universe Works  Director:  Shaun Trevisick  ProdDate: 2010– 
+
+151 Title:  How the Universe Works  Director:  Peter Chinn  ProdDate: 2010– 
+
+152 Title:  How the Universe Works  Director:  Shaun Trevisick  ProdDate: 2010– 
+
+153 Title:  How the Universe Works  Director:  Louise Say  ProdDate: 2010– 
+
+154 Title:  How the Universe Works  Director:  Lorne Townend  ProdDate: 2010– 
+
+155 Title:  How the Universe Works  Director:  Peter Chinn  ProdDate: 2010– 
+
+156 Title:  How the Universe Works  Director:  Lorne Townend  ProdDate: 2010– 
+
+157 Title:  Curiosity  Director:  Richard Max  ProdDate: 2011– 
+
+158 Title:  Curiosity  Director:  Susannah Ward  ProdDate: 2011– 
+
+159 Title:  Secrets of the Manor House  Director:  Susannah Ward  ProdDate: 2012– 
+
+160 Title:  How the Universe Works  Director:  Alex Hearle  ProdDate: 2010– 
+
+161 Title:  How the Universe Works  Director:  Alex Hearle  ProdDate: 2010– 
+
+162 Title:  How the Universe Works  Director:  Kate Dart  ProdDate: 2010– 
+
+163 Title:  How the Universe Works  Director:  Adam Warner  ProdDate: 2010– 
+
+164 Title:  How the Universe Works  Director:  Adam Warner  ProdDate: 2010– 
+
+165 Title:  How the Universe Works  Director:  George Harris  ProdDate: 2010– 
+
+166 Close Browser
+
+167 getting page
+
+168 extract text.
+
+169 printing text
+
+170 Title:  How the Universe Works  Director:  George Harris  ProdDate: 2010– 
+
+171 Title:  How the Universe Works  Director:  Kate Dart  ProdDate: 2010– 
+
+172 Title:  How Drugs Work  Director:  Gabriella Polletta  ProdDate: 2011– 
+
+173 Title:  How Drugs Work  Director:  Bruce Fletcher  ProdDate: 2011– 
+
+174 Title:  How Drugs Work  Director:  Tom Pearson  ProdDate: 2011– 
+
+175 ######### Could not find director #########
+
+176 Title:  Extreme Homes  Director:  Tina Jenkins  ProdDate: 2012– 
+
+177 Title:  Extreme Homes  Director:  Ann Lalic  ProdDate: 2012– 
+
+178 Title:  Extreme Homes  Director:  David Caldwell-Evans  ProdDate: 2012– 
+
+179 Title:  Extreme Homes  Director:  Vicky Matthews  ProdDate: 2012– 
+
+180 ######### Could not find director #########
+
+181 ######### Could not find director #########
+
+182 ######### Could not find director #########
+
+183 ######### Could not find director #########
+
+184 ######### Could not find director #########
+
+185 ######### Could not find director #########
+
+186 ######### Could not find director #########
+
+187 ######### Could not find director #########
+
+188 ######### Could not find director #########
+
+189 ######### Could not find director #########
+
+190 ######### Could not find director #########
+
+191 ######### Could not find director #########
+
+192 ######### Could not find director #########
+
+193 ######### Could not find director #########
+
+194 Title:  Extreme Homes  Director:  Louise Say  ProdDate: 2012– 
+
+195 ######### Could not find director #########
+
+196 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+197 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+198 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+199 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+200 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+201 ######### Could not find director #########
+
+202 ######### Could not find director #########
+
+203 ######### Could not find director #########
+
+204 ######### Could not find director #########
+
+205 ######### Could not find director #########
+
+206 ######### Could not find director #########
+
+207 ######### Could not find director #########
+
+208 ######### Could not find director #########
+
+209 Title:  Secrets of Britain  Director:  Susannah Ward  ProdDate: 2013– 
+
+210 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+211 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+212 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+213 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+214 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+215 ######### Could not find director #########
+
+216 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+217 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+218 Title:  How the Universe Works  Director:  Mark Bridge  ProdDate: 2010– 
+
+219 ######### Could not find director #########
+
+220 Close Browser
+
+382
+0 getting page
+
+1 extract text.
+
+2 printing text
+
+3 Title:  127 Hours  Director:  Danny Boyle  ProdDate: 2010
+
+4 Title:  Agatha and the Truth of Murder  Director:  Terry Loane  ProdDate: 2018 TV Movie
+
+5 Title:  Touching the Void  Director:  Kevin Macdonald  ProdDate: 2003
+
+6 ######### Could not find director #########
+
+7 Title:  The Seeker: The Dark Is Rising  Director:  David L. Cunningham  ProdDate: 2007
+
+8 ######### Could not find director #########
+
+9 Title:  Mermaids: The Body Found  Director:  Sid Bennett  ProdDate: 2011 TV Movie
+
+10 Title:  Clapham Junction  Director:  Adrian Shergold  ProdDate: 2007 TV Movie
+
+11 Title:  Torvill & Dean  Director:  Gillies MacKinnon  ProdDate: 2018 TV Movie
+
+12 ######### Could not find director #########
+
+13 ######### Could not find director #########
+
+14 ######### Could not find director #########
+
+15 Title:  Dave Allen at Peace  Director:  Andy De Emmony  ProdDate: 2018 TV Movie
+
+16 ######### Could not find director #########
+
+17 Title:  The Somme  Director:  Carl Hindmarch  ProdDate: 2005 TV Movie
+
+18 Title:  We're Doomed! The Dad's Army Story  Director:  Steve Bendelack  ProdDate: 2015 TV Movie
+
+19 Title:  Hawking  Director:  Stephen Finnigan  ProdDate: 2013
+
+20 ######### Could not find director #########
+
+21 ######### Could not find director #########
+
+22 Title:  9/11: The Falling Man  Director:  Henry Singer  ProdDate: 2006 TV Movie
+
+23 ######### Could not find director #########
+
+24 Title:  Micro Men  Director:  Saul Metzstein  ProdDate: 2009 TV Movie
+
+25 ######### Could not find director #########
+
+26 ######### Could not find director #########
+
+27 Title:  Sinking of the Lusitania: Terror at Sea  Director:  Christopher Spencer  ProdDate: 2007 TV Movie
+
+28 Title:  Dragons: A Fantasy Made Real  Director:  Justin Hardy  ProdDate: 2004 TV Movie
+
+29 ######### Could not find director #########
+
+30 Title:  Dark Horse  Director:  Louise Osmond  ProdDate: 2015
+
+31 Title:  The Beckoning Silence  Director:  Louise Osmond  ProdDate: 2007 TV Movie
+
+32 ######### Could not find director #########
+
+33 Title:  U Be Dead  Director:  Jamie Payne  ProdDate: 2009 TV Movie
+
+34 ######### Could not find director #########
+
+35 ######### Could not find director #########
+
+36 ######### Could not find director #########
+
+37 ######### Could not find director #########
+
+38 ######### Could not find director #########
+
+39 ######### Could not find director #########
+
+40 Title:  Thrilla in Manila  Director:  John Dower  ProdDate: 2008 TV Movie
+
+41 Title:  The Crash  Director:  Sarah Walker  ProdDate: 2013 TV Movie
+
+42 Title:  Earth from Space  Director:  Iain Riddick
+
+43 Votes: 176 ProdDate: 2012 TV Movie
+
+44 ######### Could not find director #########
+
+45 ######### Could not find director #########
+
+46 Title:  Falklands' Most Daring Raid  Director:  Christopher Spencer  ProdDate: 2012 TV Movie
+
+47 ######### Could not find director #########
+
+48 ######### Could not find director #########
+
+49 Title:  Tsunami: Caught on Camera  Director:  Janice Sutherland  ProdDate: 2009 TV Movie
+
+50 ######### Could not find director #########
+
+51 ######### Could not find director #########
+
+52 ######### Could not find director #########
+
+53 ######### Could not find director #########
+
+54 Close Browser
+
+55 getting page
+
+56 extract text.
+
+57 printing text
+
+58 ######### Could not find director #########
+
+59 Title:  The Real Casanova  Director:  Neil Rawles  ProdDate: 2003 TV Movie
+
+60 Title:  Futureshock: Comet  Director:  Keith Boak  ProdDate: 2007 TV Movie
+
+61 ######### Could not find director #########
+
+62 Title:  9/11: Phone Calls from the Towers  Director:  James Kent  ProdDate: 2009 TV Movie
+
+63 ######### Could not find director #########
+
+64 Title:  Humanity from Space  Director:  Duncan Copp  ProdDate: 2015 TV Movie
+
+65 Title:  Nazi Megastructures: Hitler's War Trains  Director:  Marc Tiley  ProdDate: 2017 TV Movie
+
+66 ######### Could not find director #########
+
+67 Title:  What Killed the Mega Beasts?  Director:  Chris Lent  ProdDate: 2002 TV Movie
+
+68 Title:  Richard III: The Princes in the Tower  Director:  Ashley Gething  ProdDate: 2015 TV Movie
+
+69 ######### Could not find director #########
+
+70 ######### Could not find director #########
+
+71 Title:  Lost: The Mystery of Flight 447  Director:  Kenny Scott  ProdDate: 2010 TV Movie
+
+72 ######### Could not find director #########
+
+73 Title:  Living the Quake  Director:  Philip Smith  ProdDate: 2006 TV Movie
+
+74 Title:  We Built This City: New York  Director:  Alexander Marengo  ProdDate: 2003 TV Movie
+
+75 ######### Could not find director #########
+
+76 ######### Could not find director #########
+
+77 Title:  The World's First Time Machine  Director:  Ben Bowie  ProdDate: 2003 TV Movie
+
+78 ######### Could not find director #########
+
+79 ######### Could not find director #########
+
+80 ######### Could not find director #########
+
+81 ######### Could not find director #########
+
+82 Title:  Station X  Director:  Peter Bate
+
+83 Votes: 27 ProdDate: 1999 TV Movie
+
+84 ######### Could not find director #########
+
+85 Title:  Touching the Void: Return to Siula Grande  Director:  Kevin Macdonald  ProdDate: 2004 Video
+
+86 Title:  Blitz: London's Firestorm  Director:  Louise Osmond  ProdDate: 2005 TV Movie
+
+87 Title:  The Space Shuttle's Last Flight  Director:  Jeremy Hall  ProdDate: 2011 TV Movie
+
+88 Title:  The Da Vinci Detective  Director:  Nigel Levy
+
+89 Votes: 59 ProdDate: 2006 TV Movie
+
+90 ######### Could not find director #########
+
+91 ######### Could not find director #########
+
+92 ######### Could not find director #########
+
+93 Title:  We Built This City: London  Director:  Paul Burgess  ProdDate: 2003 TV Movie
+
+94 ######### Could not find director #########
+
+95 ######### Could not find director #########
+
+96 ######### Could not find director #########
+
+97 ######### Could not find director #########
+
+98 Title:  World's Biggest Airliner: Building the Airbus A380  Director:  Ben Bowie
+
+99 Votes: 13 ProdDate: 2005 TV Movie
+
+100 ######### Could not find director #########
+
+101 Title:  We Built This City: Paris  Director:  Jeremy Llewellyn-Jones  ProdDate: 2008 TV Movie
+
+102 ######### Could not find director #########
+
+103 ######### Could not find director #########
+
+104 Title:  Fighting the Red Baron  Director:  Christopher Spencer  ProdDate: 2010 TV Movie
+
+105 Title:  The Making of 'Touching the Void'  Director:  Bruno de Almeida  ProdDate: 2003 TV Movie
+
+106 Title:  The Gunpowder Plot: Exploding the Legend  Director:  Mike Slee  ProdDate: 2005 TV Movie
+
+107 ######### Could not find director #########
+
+108 Title:  Bootcamp  Director:  Norman Hull ProdDate: 1999
+
+109 Title:  9/11: Heroes of the 88th Floor: People Helping People  Director:  James Quinn  ProdDate: 2011 TV Movie
+
+110 Title:  Teenage Japanese Killers  Director:  Neil Rawles  ProdDate: 2000 TV Movie
+
+111 Close Browser
+
+112 getting page
+
+113 extract text.
+
+114 printing text
+
+115 ######### Could not find director #########
+
+116 ######### Could not find director #########
+
+117 Title:  The Secret Diary of the Holocaust  Director:  Alexander Marengo  ProdDate: 2009 TV Movie
+
+118 Title:  WW1: Finding the Lost Battalions  Director:  Janice Sutherland  ProdDate: 2010 TV Movie
+
+119 Title:  Children of 9/11  Director:  Janice Sutherland  ProdDate: 2011 TV Movie
+
+120 Title:  Strange World of Barry Who  Director:  Margy Kinmonth ProdDate: 2004 TV Movie
+
+121 ######### Could not find director #########
+
+122 ######### Could not find director #########
+
+123 Title:  Concorde's Last Flight  Director:  Christopher Spencer  ProdDate: 2010 TV Movie
+
+124 ######### Could not find director #########
+
+125 ######### Could not find director #########
+
+126 ######### Could not find director #########
+
+127 ######### Could not find director #########
+
+128 ######### Could not find director #########
+
+129 Title:  The Blitz: London's Longest Night  Director:  Louise Osmond  ProdDate: 2005 TV Movie
+
+130 ######### Could not find director #########
+
+131 Title:  The Day of the Kamikaze  Director:  Peter Nicholson  ProdDate: 2008 TV Movie
+
+132 ######### Could not find director #########
+
+133 Title:  Assault on Waco  Director:  Neil Rawles  ProdDate: 2006 TV Movie
+
+134 ######### Could not find director #########
+
+135 Title:  Nazi Death Camp: The Great Escape  Director:  Hereward Pelling ProdDate: 2014 TV Movie
+
+136 Title:  Looking for Elizabeth  Director:  James Kent  ProdDate: 2005 TV Movie
+
+137 ######### Could not find director #########
+
+138 ######### Could not find director #########
+
+139 Title:  My 40-Year-Old Child  Director:  Sean Smith  ProdDate: 2010 TV Movie
+
+140 ######### Could not find director #########
+
+141 Title:  Roman Vice  Director:  Peter Swain  ProdDate: 2005 TV Movie
+
+142 Title:  9/11: Voices from the Air  Director:  Stephen Finnigan  ProdDate: 2012 TV Movie
+
+143 Title:  A Great British Air Disaster  Director:  Anna Thomson  ProdDate: 2013 TV Movie
+
+144 ######### Could not find director #########
+
+145 Title:  Can It Be Built?: World's Tallest Skyscraper  Director:  Simon Young ProdDate: 2012 TV Movie
+
+146 ######### Could not find director #########
+
+147 ######### Could not find director #########
+
+148 Title:  Journey to the Heart of the Tsunami: Unstoppable Wave  Director:  Ed Wardle ProdDate: 2005 TV Movie
+
+149 Title:  Young Elvis in Colour  Director:  Alexander Marengo  ProdDate: 2007 TV Movie
+
+150 Title:  My Kid Survived  Director:  James Erskine  ProdDate: 2010 TV Movie
+
+151 Title:  Phil Spector's Demons  Director:  Jeremy Marre  ProdDate: 2007 TV Movie
+
+152 Title:  Word of the Year 2017  Director:  Emily Kennedy  ProdDate: 2017 TV Movie
+
+153 Title:  My Brand New Face  Director:  Tom Peppiatt  ProdDate: 2010 TV Movie
+
+154 Title:  Britain's Killer Storms  Director:  Stephen Finnigan ProdDate: 2013 TV Movie
+
+155 Title:  Decoding Nazi Secrets  Director:  Peter Bate  ProdDate: 1999 TV Movie
+
+156 ######### Could not find director #########
+
+157 Title:  How to Build a Bionic Man  Director:  Tom Coveney  ProdDate: 2013 TV Movie
+
+158 ######### Could not find director #########
+
+159 ######### Could not find director #########
+
+160 ######### Could not find director #########
+
+161 Title:  Out of the Wreckage: Plane Crash Survivors  Director:  Christopher Martin  ProdDate: 2009 TV Movie
+
+162 ######### Could not find director #########
+
+163 Title:  The Boy with Bloody Tears  Director:  Tom Peppiatt ProdDate: 2010 TV Movie
+
+164 ######### Could not find director #########
+
+165 Close Browser
+
+166 getting page
+
+167 extract text.
+
+168 printing text
+
+169 Title:  Turin Shroud: New Evidence  Director:  Michael Epstein  ProdDate: 2009 TV Movie
+
+170 ######### Could not find director #########
+
+171 ######### Could not find director #########
+
+172 Title:  Airplanski!  Director:  Norman Hull
+
+173 Votes: 7 ProdDate: 1995 TV Movie
+
+174 ######### Could not find director #########
+
+175 ######### Could not find director #########
+
+176 ######### Could not find director #########
+
+177 ######### Could not find director #########
+
+178 Title:  What the Green Movement Got Wrong  Director:  Louise Osmond  ProdDate: 2010
+
+179 Title:  Hasselhoff vs Director:  Gary Johnstone  ProdDate: 2014 TV Movie
+
+180 ######### Could not find director #########
+
+181 Title:  My Skin Is Killing Me  Director:  Nic Guttridge  ProdDate: 2010 TV Movie
+
+182 ######### Could not find director #########
+
+183 ######### Could not find director #########
+
+184 ######### Could not find director #########
+
+185 Title:  Buildings in the Name of God  Director:  Jobim Sampson ProdDate: 2005 TV Movie
+
+186 ######### Could not find director #########
+
+187 Title:  Britain's Lost Roman Wonder  Director:  Jonathan Dent ProdDate: 2003 TV Movie
+
+188 Title:  Ultimate Rock Climb  Director:  Paul Copeland  ProdDate: 2007 TV Movie
+
+189 Title:  How the Twin Towers Collapsed  Director:  Ben Bowie ProdDate: 2001 TV Movie
+
+190 Title:  Lost Ship of Henry VIII  Director:  Peter Bate  ProdDate: TV Movie
+
+191 ######### Could not find director #########
+
+192 Title:  One Year to Go: Building Stratford  Director:  Jo Locke ProdDate: 2011
+
+193 Title:  Rosetta: Comet Landing  Director:  Rory Griffin ProdDate: 2014 TV Movie
+
+194 ######### Could not find director #########
+
+195 Title:  What Sank the Mary Rose?  Director:  Peter Bate  ProdDate: 2000 TV Movie
+
+196 ######### Could not find director #########
+
+197 ######### Could not find director #########
+
+198 Title:  Why Men Leave  Director:  Helen Hill ProdDate: 2001
+
+199 Title:  The Fight for Baghdad  Director:  Tim Pritchard ProdDate: 2004 TV Movie
+
+200 Title:  Collapse: Failure by Design  Director:  Paul Mitchell ProdDate: 2000 Video
+
+201 ######### Could not find director #########
+
+202 ######### Could not find director #########
+
+203 Title:  600 Pound Mom  Director:  Deborah Lovett  ProdDate: 2011 TV Movie
+
+204 ######### Could not find director #########
+
+205 ######### Could not find director #########
+
+206 Title:  I Shouldn't Be Alive  Director:  Renny Bartlett  ProdDate: 2005– 
+
+207 Title:  The Dark Side of Porn  Director:  David Barrie
+
+208 Votes: 47 ProdDate: 2005– 
+
+209 Title:  Seconds from Disaster  Director:  Maninderpal Sahota  ProdDate: 2004–2012
+
+210 Title:  Seconds from Disaster  Director:  Alexander Dunlop  ProdDate: 2004–2012
+
+211 Title:  Megastructures  Director:  Jessica Bassett  ProdDate: 2004– 
+
+212 Title:  Megastructures  Director:  Jeremy Hall  ProdDate: 2004– 
+
+213 Title:  Megastructures  Director:  Chris Lent  ProdDate: 2004– 
+
+214 Title:  Megastructures  Director:  Jeremy Hall  ProdDate: 2004– 
+
+215 Title:  Megastructures  Director:  Ian Holt  ProdDate: 2004– 
+
+216 Title:  Megastructures  Director:  Thomas Viner  ProdDate: 2004– 
+
+217 Title:  Seconds from Disaster  Director:  Chris Walker  ProdDate: 2004–2012
+
+218 Title:  The New Detectives: Case Studies in Forensic Science  Director:  Jonathan Hacker  ProdDate: 1996–2005
+
+219 Title:  Situation Critical  Director:  Tim Conrad  ProdDate: 2007– 
+
+220 ######### Could not find director #########
+
+221 Close Browser
+
+222 getting page
+
+223 extract text.
+
+224 printing text
+
+225 ######### Could not find director #########
+
+226 ######### Could not find director #########
+
+227 ######### Could not find director #########
+
+228 ######### Could not find director #########
+
+229 ######### Could not find director #########
+
+230 ######### Could not find director #########
+
+231 ######### Could not find director #########
+
+232 ######### Could not find director #########
+
+233 ######### Could not find director #########
+
+234 ######### Could not find director #########
+
+235 ######### Could not find director #########
+
+236 ######### Could not find director #########
+
+237 ######### Could not find director #########
+
+238 ######### Could not find director #########
+
+239 Title:  Situation Critical  Director:  Jim Nally  ProdDate: 2007– 
+
+240 Title:  Modern Marvels  Director:  Martin O'Collins  ProdDate: 1993– 
+
+241 Title:  Situation Critical  Director:  Tim Conrad  ProdDate: 2007– 
+
+242 Title:  Modern Marvels  Director:  Martin O'Collins  ProdDate: 1993– 
+
+243 Title:  True Heroes  Director:  Mary Downes  ProdDate: 2008– 
+
+244 ######### Could not find director #########
+
+245 Title:  Unsolved History  Director:  Ed Wardle  ProdDate: 2002– 
+
+246 ######### Could not find director #########
+
+247 ######### Could not find director #########
+
+248 Title:  Into the Unknown with Josh Bernstein  Director:  Mike Slee  ProdDate: 2008– 
+
+249 ######### Could not find director #########
+
+250 ######### Could not find director #########
+
+251 ######### Could not find director #########
+
+252 ######### Could not find director #########
+
+253 ######### Could not find director #########
+
+254 Title:  Into the Unknown with Josh Bernstein  Director:  Mike Slee  ProdDate: 2008– 
+
+255 Title:  Engineering Connections  Director:  Kenny Scott  ProdDate: 2008– 
+
+256 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+257 Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+
+258 Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+
+259 Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+
+260 Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+
+261 Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+
+262 Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+
+263 Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+
+264 Title:  National Geographic: Engineering the Impossible  Director:  Kate Haddock  ProdDate: 2007– 
+
+265 ######### Could not find director #########
+
+266 Title:  Cutting Edge  Director:  Louise Osmond  ProdDate: 1990– 
+
+267 ######### Could not find director #########
+
+268 ######### Could not find director #########
+
+269 Title:  Bloody Foreigners  Director:  Carl Hindmarch  ProdDate: 2010– 
+
+270 Title:  Why Doctors Make Mistakes  Director:  Philip Day ProdDate: 2000– 
+
+271 Title:  Why Doctors Make Mistakes  Director:  Philip Day ProdDate: 2000– 
+
+272 Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+
+273 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+274 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+275 Close Browser
+
+276 getting page
+
+277 extract text.
+
+278 printing text
+
+279 Title:  Engineering Connections  Director:  Fred Aidroos  ProdDate: 2008– 
+
+280 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+281 Title:  I Shouldn't Be Alive  Director:  Tim Conrad  ProdDate: 2005– 
+
+282 Title:  I Shouldn't Be Alive  Director:  Tim Conrad  ProdDate: 2005– 
+
+283 Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+
+284 ######### Could not find director #########
+
+285 ######### Could not find director #########
+
+286 Title:  Stephen Hawking's Universe  Director:  Martin Williams  ProdDate: 2010– 
+
+287 Title:  Driven  Director:  Adrian Vitoria  ProdDate: 1998–2002
+
+288 ######### Could not find director #########
+
+289 ######### Could not find director #########
+
+290 Title:  Black Box  Director:  Peter Bate ProdDate: 1996– 
+
+291 ######### Could not find director #########
+
+292 ######### Could not find director #########
+
+293 Title:  Witness  Director:  Jane Beckwith ProdDate: 1993– 
+
+294 ######### Could not find director #########
+
+295 Title:  Secret History  Director:  Clara Glynn  ProdDate: 1991– 
+
+296 ######### Could not find director #########
+
+297 Title:  Engineering Connections  Director:  Jake Cardew  ProdDate: 2008– 
+
+298 Title:  Engineering Connections  Director:  Jake Cardew  ProdDate: 2008– 
+
+299 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+300 Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+
+301 ######### Could not find director #########
+
+302 Title:  Megastructures  Director:  James Bates
+
+303 Votes: 9 ProdDate: 2004– 
+
+304 ######### Could not find director #########
+
+305 ######### Could not find director #########
+
+306 ######### Could not find director #########
+
+307 Title:  I Shouldn't Be Alive  Director:  Neil Rawles  ProdDate: 2005– 
+
+308 Title:  I Shouldn't Be Alive  Director:  Katinka Newman  ProdDate: 2005– 
+
+309 ######### Could not find director #########
+
+310 Title:  I Shouldn't Be Alive  Director:  Simon George  ProdDate: 2005– 
+
+311 Title:  Revelations  Director:  Claudio von Planta  ProdDate: 2009– 
+
+312 Title:  Seconds from Disaster  Director:  Steve Webb  ProdDate: 2004–2012
+
+313 Title:  Nova  Director:  Oliver Twinch  ProdDate: 1974– 
+
+314 Title:  I Shouldn't Be Alive  Director:  James Erskine  ProdDate: 2005– 
+
+315 Title:  Man Made Marvels  Director:  Jo Locke ProdDate: 2008– 
+
+316 Title:  How Hard Can It Be?  Director:  Jerry McNutt  ProdDate: 2011– 
+
+317 ######### Could not find director #########
+
+318 ######### Could not find director #########
+
+319 Title:  Stephen Hawking's Grand Design  Director:  Matthew Huntley  ProdDate: 2012– 
+
+320 Title:  Stephen Hawking's Grand Design  Director:  Dan Clifton  ProdDate: 2012– 
+
+321 ######### Could not find director #########
+
+322 ######### Could not find director #########
+
+323 ######### Could not find director #########
+
+324 Title:  Seconds from Disaster  Director:  Sean Smith  ProdDate: 2004–2012
+
+325 Title:  Megafactories  Director:  Sam Taplin  ProdDate: 2007–2013
+
+326 Title:  Megafactories  Director:  Pete Woods  ProdDate: 2007–2013
+
+327 ######### Could not find director #########
+
+328 ######### Could not find director #########
+
+329 ######### Could not find director #########
+
+330 Close Browser
+
+331 getting page
+
+332 extract text.
+
+333 printing text
+
+334 ######### Could not find director #########
+
+335 ######### Could not find director #########
+
+336 Title:  Top Secrets  Director:  Simon Martin  ProdDate: 2013– 
+
+337 Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+
+338 ######### Could not find director #########
+
+339 Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+
+340 Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+
+341 Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+
+342 Title:  Future Firepower  Director:  Stuart Rose ProdDate: 2013– 
+
+343 ######### Could not find director #########
+
+344 Title:  Dead or Alive  Director:  Jamie Crawford  ProdDate: 2013– 
+
+345 ######### Could not find director #########
+
+346 Title:  Dead or Alive  Director:  Anne Sommerfield  ProdDate: 2013– 
+
+347 Title:  Dead or Alive  Director:  Anne Sommerfield ProdDate: 2013– 
+
+348 Title:  Dead or Alive  Director:  Jamie Crawford  ProdDate: 2013– 
+
+349 ######### Could not find director #########
+
+350 Title:  Nazi Mega Weapons  Director:  Christopher Spencer  ProdDate: 2013– 
+
+351 ######### Could not find director #########
+
+352 ######### Could not find director #########
+
+353 Title:  Nazi Mega Weapons  Director:  Steve Baker  ProdDate: 2013– 
+
+354 Title:  Nazi Mega Weapons  Director:  Steve Baker  ProdDate: 2013– 
+
+355 Title:  The Mill  Director:  Susan Tully  ProdDate: 2013– 
+
+356 Title:  The Mill  Director:  Susan Tully  ProdDate: 2013– 
+
+357 Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+
+358 Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+
+359 Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+
+360 Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+
+361 Title:  Future Firepower  Director:  Stuart Rose  ProdDate: 2013– 
+
+362 Title:  Secrets of the Dead  Director:  Gary Johnstone  ProdDate: 2000– 
+
+363 Title:  Curiosity  Director:  Richard Max  ProdDate: 2011– 
+
+364 ######### Could not find director #########
+
+365 ######### Could not find director #########
+
+366 ######### Could not find director #########
+
+367 ######### Could not find director #########
+
+368 ######### Could not find director #########
+
+369 ######### Could not find director #########
+
+370 ######### Could not find director #########
+
+371 ######### Could not find director #########
+
+372 ######### Could not find director #########
+
+373 ######### Could not find director #########
+
+374 ######### Could not find director #########
+
+375 ######### Could not find director #########
+
+376 ######### Could not find director #########
+
+377 ######### Could not find director #########
+
+378 ######### Could not find director #########
+
+379 ######### Could not find director #########
+
+380 ######### Could not find director #########
+
+381 Close Browser
+
+559
+0 Company Name: Plumb_Pictures_Urls
+
+1 getting page
+
+2 extract text.
+
+3 printing text
+
+4 ######### Could not find director #########
+
+5 ######### Could not find director #########
+
+6 ######### Could not find director #########
+
+7 ######### Could not find director #########
+
+8 ######### Could not find director #########
+
+9 ######### Could not find director #########
+
+10 ######### Could not find director #########
+
+11 ######### Could not find director #########
+
+12 ######### Could not find director #########
+
+13 Title:  Inside Death Row with Trevor McDonald  Director:  Stuart Cabb  ProdDate: 2013 TV Movie
+
+14 ######### Could not find director #########
+
+15 ######### Could not find director #########
+
+16 ######### Could not find director #########
+
+17 Title:  Psychopath with Piers Morgan  Director:  Stuart Cabb  ProdDate: 2019 TV Movie
+
+18 ######### Could not find director #########
+
+19 Title:  Death Row 2018 with Trevor McDonald  Director:  Stuart Cabb  ProdDate: 2017 TV Movie
+
+20 Title:  Women Behind Bars with Trevor McDonald  Director:  Stuart Cabb  ProdDate: 2013 TV Movie
+
+21 Title:  The Great UFO Conspiracy  Director:  Daniel Lucchesi  ProdDate: 2015 TV Movie
+
+22 ######### Could not find director #########
+
+23 ######### Could not find director #########
+
+24 ######### Could not find director #########
+
+25 ######### Could not find director #########
+
+26 Title:  England's Worst Ever Football Team  Director:  Kevin Hylands  ProdDate: 2010 TV Movie
+
+27 Title:  Gok Wan: Made in China  Director:  Tom Whitter  ProdDate: 2012 TV Movie
+
+28 ######### Could not find director #########
+
+29 ######### Could not find director #########
+
+30 Title:  England's Worst Ever Football Team  Director:  Kevin Hylands  ProdDate: 2014 TV Special
+
+31 Title:  Las Vegas with Trevor McDonald  Director:  Stuart Cabb ProdDate: 2015 TV Movie
+
+32 ######### Could not find director #########
+
+33 ######### Could not find director #########
+
+34 Title:  Madeley Meets Director:  Nick Betts  ProdDate: 2012 TV Movie
+
+35 Title:  Alison Jackson's Review of 2010  Director:  Alison Jackson ProdDate: 2011 TV Special
+
+36 ######### Could not find director #########
+
+37 Title:  Toy Stories  Director:  Graham Strong  ProdDate: 2009– 
+
+38 Title:  Toy Stories  Director:  Graham Strong  ProdDate: 2009– 
+
+39 Title:  Toy Stories  Director:  Alexander Dunlop  ProdDate: 2009– 
+
+40 Title:  Toy Stories  Director:  Paul Buller  ProdDate: 2009– 
+
+41 ######### Could not find director #########
+
+42 Title:  Toy Stories  Director:  Paul Buller  ProdDate: 2009– 
+
+43 Title:  Toy Stories  Director:  Alexander Dunlop  ProdDate: 2009– 
+
+44 ######### Could not find director #########
+
+45 ######### Could not find director #########
+
+46 Title:  E Numbers: An Edible Adventure  Director:  Toni Williamson  ProdDate: 2010– 
+
+47 ######### Could not find director #########
+
+48 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+49 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+50 ######### Could not find director #########
+
+51 ######### Could not find director #########
+
+52 ######### Could not find director #########
+
+53 ######### Could not find director #########
+
+54 Close Browser
+
+55 getting page
+
+56 extract text.
+
+57 printing text
+
+58 ######### Could not find director #########
+
+59 ######### Could not find director #########
+
+60 ######### Could not find director #########
+
+61 ######### Could not find director #########
+
+62 ######### Could not find director #########
+
+63 ######### Could not find director #########
+
+64 ######### Could not find director #########
+
+65 Title:  Toy Stories  Director:  Tom Whitter  ProdDate: 2009– 
+
+66 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+67 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+68 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+69 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+70 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+71 Title:  Toy Stories  Director:  Tom Whitter  ProdDate: 2009– 
+
+72 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+73 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+74 Title:  Perspectives  Director:  Christopher Bruce  ProdDate: 2011– 
+
+75 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+76 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+77 Title:  James May's Man Lab  Director:  Tom Whitter  ProdDate: 2010– 
+
+78 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+79 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+80 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+81 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+82 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+83 Title:  George Clarke's Amazing Spaces  Director:  Rebecca Magill  ProdDate: 2012– 
+
+84 ######### Could not find director #########
+
+85 ######### Could not find director #########
+
+86 ######### Could not find director #########
+
+87 ######### Could not find director #########
+
+88 ######### Could not find director #########
+
+89 ######### Could not find director #########
+
+90 ######### Could not find director #########
+
+91 ######### Could not find director #########
+
+92 ######### Could not find director #########
+
+93 ######### Could not find director #########
+
+94 ######### Could not find director #########
+
+95 ######### Could not find director #########
+
+96 ######### Could not find director #########
+
+97 Title:  Mary's Silver Service  Director:  Jamie Wightman  ProdDate: 2014– 
+
+98 ######### Could not find director #########
+
+99 ######### Could not find director #########
+
+100 ######### Could not find director #########
+
+101 ######### Could not find director #########
+
+102 Title:  Toy Stories  Director:  Tom Whitter  ProdDate: 2009– 
+
+103 Title:  Killer Women with Piers Morgan  Director:  Stuart Cabb  ProdDate: 2016–2017
+
+104 Title:  Killer Women with Piers Morgan  Director:  Stuart Cabb  ProdDate: 2016–2017
+
+105 Title:  James May: The Reassembler  Director:  Dan Lewis  ProdDate: 2016– 
+
+106 Title:  James May: The Reassembler  Director:  Dan Lewis  ProdDate: 2016– 
+
+107 Title:  James May: The Reassembler  Director:  Dan Lewis  ProdDate: 2016– 
+
+108 Close Browser
+
+109 getting page
+
+110 extract text.
+
+111 printing text
+
+112 ######### Could not find director #########
+
+113 ######### Could not find director #########
+
+114 ######### Could not find director #########
+
+115 ######### Could not find director #########
+
+116 ######### Could not find director #########
+
+117 ######### Could not find director #########
+
+118 ######### Could not find director #########
+
+119 Close Browser
+
+120 Company Name: Impossible_pictures
+
+121 getting page
+
+122 extract text.
+
+123 printing text
+
+124 ######### Could not find director #########
+
+125 ######### Could not find director #########
+
+126 ######### Could not find director #########
+
+127 ######### Could not find director #########
+
+128 Title:  The Great Martian War 1913 - 1917  Director:  Mike Slee  ProdDate: 2013 TV Movie
+
+129 ######### Could not find director #########
+
+130 ######### Could not find director #########
+
+131 ######### Could not find director #########
+
+132 ######### Could not find director #########
+
+133 Title:  Frankenstein  Director:  Jed Mercurio  ProdDate: 2007 TV Movie
+
+134 ######### Could not find director #########
+
+135 Title:  Guns N' Roses: The Story  Director:  Randy Martin  ProdDate: 2007 TV Movie
+
+136 Title:  Space Odyssey: Voyage to the Planets  Director:  Joe Ahearne  ProdDate: 2004 TV Movie
+
+137 ######### Could not find director #########
+
+138 Title:  The Legend of the Tamworth Two  Director:  Metin Hüseyin  ProdDate: 2004 TV Movie
+
+139 ######### Could not find director #########
+
+140 Title:  Secrets of the Deep  Director:  David Allen  ProdDate: 2006 TV Movie
+
+141 Title:  Land of Giants: A 'Walking with Dinosaurs' Special  Director:  Jasper James  ProdDate: 2002 TV Movie
+
+142 ######### Could not find director #########
+
+143 Title:  The Giant Claw: A 'Walking with Dinosaurs' Special  Director:  Tim Haines  ProdDate: 2002 TV Movie
+
+144 ######### Could not find director #########
+
+145 ######### Could not find director #########
+
+146 ######### Could not find director #########
+
+147 Title:  The Story of 1  Director:  Nick Murphy  ProdDate: 2005 TV Movie
+
+148 ######### Could not find director #########
+
+149 ######### Could not find director #########
+
+150 Title:  T-Rex: A Dinosaur in Hollywood  Director:  Michael Davies  ProdDate: 2005 TV Movie
+
+151 ######### Could not find director #########
+
+152 ######### Could not find director #########
+
+153 Title:  Pickles: The Dog Who Won the World Cup  Director:  Gavin Millar  ProdDate: 2006 TV Movie
+
+154 ######### Could not find director #########
+
+155 ######### Could not find director #########
+
+156 Title:  Space Odyssey: The Robot Pioneers  Director:  Christopher Riley  ProdDate: 2004 TV Movie
+
+157 Title:  Prehistoric Park: Building the Impossible  Director:  Sara Kenney
+
+158 Votes: 7 ProdDate: 2006 Video
+
+159 ######### Could not find director #########
+
+160 Title:  Human Swarm  Director:  Neil Ferguson  ProdDate: 2013 TV Movie
+
+161 Title:  Perfect Disasters  Director:  Gareth Edwards  ProdDate: 2006– 
+
+162 Title:  Perfect Disasters  Director:  Gareth Edwards  ProdDate: 2006– 
+
+163 ######### Could not find director #########
+
+164 ######### Could not find director #########
+
+165 ######### Could not find director #########
+
+166 ######### Could not find director #########
+
+167 ######### Could not find director #########
+
+168 ######### Could not find director #########
+
+169 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+170 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+171 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+172 Title:  Primeval  Director:  Jamie Payne  ProdDate: 2007–2011
+
+173 Title:  Primeval  Director:  Jamie Payne  ProdDate: 2007–2011
+
+174 Title:  Primeval  Director:  Jamie Payne  ProdDate: 2007–2011
+
+175 Close Browser
+
+176 getting page
+
+177 extract text.
+
+178 printing text
+
+179 Title:  TV Burp  Director:  Peter Orton  ProdDate: 2001– 
+
+180 Title:  Primeval  Director:  Jamie Payne  ProdDate: 2007–2011
+
+181 Title:  Primeval  Director:  Andrew Gunn  ProdDate: 2007–2011
+
+182 Title:  Primeval  Director:  Matthew Thompson  ProdDate: 2007–2011
+
+183 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+184 Title:  Primeval  Director:  Richard Curson Smith  ProdDate: 2007–2011
+
+185 Title:  Primeval  Director:  Richard Curson Smith  ProdDate: 2007–2011
+
+186 Title:  Primeval  Director:  Matthew Thompson  ProdDate: 2007–2011
+
+187 Title:  Primeval  Director:  Tony Mitchell  ProdDate: 2007–2011
+
+188 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+189 Title:  Primeval  Director:  Tony Mitchell  ProdDate: 2007–2011
+
+190 Title:  Primeval  Director:  Mark Everest  ProdDate: 2007–2011
+
+191 Title:  Primeval  Director:  Mark Everest  ProdDate: 2007–2011
+
+192 Title:  Primeval  Director:  Mark Everest  ProdDate: 2007–2011
+
+193 Title:  Primeval  Director:  Mark Everest  ProdDate: 2007–2011
+
+194 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+195 Title:  Primeval  Director:  Cilla Ware  ProdDate: 2007–2011
+
+196 Title:  Primeval  Director:  Robert Quinn  ProdDate: 2007–2011
+
+197 Title:  Primeval  Director:  Robert Quinn  ProdDate: 2007–2011
+
+198 Title:  How the Earth Was Made  Director:  Kate Dart  ProdDate: 2009– 
+
+199 Title:  Primeval  Director:  Mark Everest  ProdDate: 2007–2011
+
+200 ######### Could not find director #########
+
+201 Title:  Rise of the Continents  Director:  Stephen Cooter  ProdDate: 2013– 
+
+202 Close Browser
+
+203 Company Name: Oxford_film_urls
+
+204 getting page
+
+205 extract text.
+
+206 printing text
+
+207 ######### Could not find director #########
+
+208 ######### Could not find director #########
+
+209 Title:  The Last Days of Anne Boleyn  Director:  Rob Coldstream  ProdDate: 2013 TV Movie
+
+210 Title:  Ten Billion  Director:  Peter Webber  ProdDate: 2015
+
+211 ######### Could not find director #########
+
+212 ######### Could not find director #########
+
+213 ######### Could not find director #########
+
+214 Title:  Our Queen at Ninety  Director:  Ashley Gething  ProdDate: 2016 TV Movie
+
+215 ######### Could not find director #########
+
+216 ######### Could not find director #########
+
+217 Title:  Dancing the Nutcracker: Inside the Royal Ballet  Director:  Hugo Macgregor  ProdDate: 2016 TV Movie
+
+218 Title:  Diana, Our Mother: Her Life and Legacy  Director:  Ashley Gething  ProdDate: 2017 TV Movie
+
+219 ######### Could not find director #########
+
+220 ######### Could not find director #########
+
+221 Title:  Brexit: A Very British Coup  Director:  Patrick Forbes
+
+222 Votes: 40 ProdDate: 2016 TV Movie
+
+223 ######### Could not find director #########
+
+224 Title:  Footprints in the Snow  Director:  Richard Spence  ProdDate: 2005 TV Movie
+
+225 Title:  Bradford Riots  Director:  Neil Biswas  ProdDate: 2006 TV Movie
+
+226 Title:  Brexit Means Brexit: The Unofficial Version  Director:  Patrick Forbes  ProdDate: 2017 TV Movie
+
+227 ######### Could not find director #########
+
+228 ######### Could not find director #########
+
+229 Title:  Our Queen  Director:  Michael Waldman  ProdDate: 2013 TV Movie
+
+230 Title:  The Mona Lisa Curse  Director:  Mandy Chang
+
+231 Votes: 96 ProdDate: 2008
+
+232 Title:  David Starkey's Magna Carta  Director:  Christopher Spencer  ProdDate: 2015 TV Movie
+
+233 Title:  UFO's: The Secret Evidence  Director:  Alex Hearle  ProdDate: 2005 TV Movie
+
+234 Title:  Chopin Saved My Life  Director:  James Kent  ProdDate: 2012 TV Movie
+
+235 Title:  The Road to Palmyra  Director:  Adrian Sibley  ProdDate: 2018 TV Movie
+
+236 Title:  Russian Godfathers  Director:  Patrick Forbes  ProdDate: 2005 TV Movie
+
+237 Title:  Goya: Crazy Like a Genius  Director:  Ian MacMillan  ProdDate: 2002 TV Movie
+
+238 ######### Could not find director #########
+
+239 Title:  Invitation to a Royal Wedding  Director:  Sally Benton  ProdDate: 2018 TV Movie
+
+240 ######### Could not find director #########
+
+241 ######### Could not find director #########
+
+242 ######### Could not find director #########
+
+243 ######### Could not find director #########
+
+244 Title:  Funny Already: A History of Jewish Comedy  Director:  Emma Cahusac  ProdDate: 2004 TV Movie
+
+245 Title:  Lionheart: The Crusade  Director:  Patrick Fleming  ProdDate: 2003 TV Movie
+
+246 ######### Could not find director #########
+
+247 ######### Could not find director #########
+
+248 Title:  Richard Hillary: A Fighter Pilot's Story  Director:  Philip Martin
+
+249 Votes: 6 ProdDate: 2000 TV Movie
+
+250 Title:  Togas on TV  Director:  Nick Angel  ProdDate: 2007 TV Movie
+
+251 Title:  A Very Royal Wedding  Director:  Eleanor Scoones  ProdDate: 2017 TV Movie
+
+252 Title:  Superfly  Director:  Philip Smith ProdDate: 2003 TV Movie
+
+253 ######### Could not find director #########
+
+254 ######### Could not find director #########
+
+255 ######### Could not find director #########
+
+256 Title:  Awesome Beauty: The Art of Industrial Britain  Director:  Luke McMahon  ProdDate: 2017
+
+257 ######### Could not find director #########
+
+258 Title:  The Love of Books: A Sarajevo Story  Director:  Sam Hobkinson  ProdDate: 2011
+
+259 Title:  Churchill: When Britain Said No  Director:  Christopher Spencer  ProdDate: 2015 TV Movie
+
+260 Close Browser
+
+261 getting page
+
+262 extract text.
+
+263 printing text
+
+264 Title:  The Spectator Affair  Director:  David Jeffcock ProdDate: 2005 TV Movie
+
+265 ######### Could not find director #########
+
+266 Title:  Churchill: Winning the War, Losing the Peace  Director:  Christopher Spencer  ProdDate: 2015 TV Movie
+
+267 ######### Could not find director #########
+
+268 ######### Could not find director #########
+
+269 Title:  Football Crazy  Director:  Anand Tucker
+
+270 Votes: 5 ProdDate: 1994 TV Movie
+
+271 ######### Could not find director #########
+
+272 Title:  The Royal Court of Thailand  Director:  Nick Read ProdDate: 1998 TV Movie
+
+273 Title:  Histoires de l'âge d'or islamique  Director:  Teresa Griffiths  ProdDate: 2013
+
+274 Title:  Zoe  Director:  Teresa Griffiths  ProdDate: 2000 TV Movie
+
+275 ######### Could not find director #########
+
+276 ######### Could not find director #########
+
+277 Title:  Houses of Power  Director:  James Runcie  ProdDate: 2007 TV Movie
+
+278 Title:  The Force  Director:  Patrick Forbes ProdDate: II
+
+279 Title:  Betjeman and Me: Dan Cruickshank  Director:  Jenny Dames  ProdDate: 2006 TV Movie
+
+280 ######### Could not find director #########
+
+281 Title:  Seven Ages of Qatar  Director:  Philip Smith ProdDate: 2010
+
+282 Title:  The American Road Trip: Obama's Story  Director:  Ashley Gething ProdDate: 2012 TV Movie
+
+283 Title:  Tales from the MIA  Director:  Teresa Griffiths ProdDate: 2009 TV Movie
+
+284 ######### Could not find director #########
+
+285 Title:  Bookmark  Director:  Anand Tucker  ProdDate: 1983– 
+
+286 Title:  Masters of Darkness  Director:  Olly Lambert  ProdDate: 2002– 
+
+287 Title:  Omnibus  Director:  Teresa Griffiths  ProdDate: 1967–2003
+
+288 Title:  Modern Times  Director:  Lucy Jago  ProdDate: 1995–2015
+
+289 Title:  Medieval Lives  Director:  Lucy Cooke  ProdDate: 2004– 
+
+290 Title:  Barbarians  Director:  Rob Coldstream  ProdDate: 2006– 
+
+291 Title:  Barbarians  Director:  David Wilson  ProdDate: 2006– 
+
+292 Title:  Barbarians  Director:  David McNab  ProdDate: 2006– 
+
+293 Title:  Barbarians  Director:  Rob Coldstream  ProdDate: 2006– 
+
+294 Title:  Revealed  Director:  Clive Maltby  ProdDate: 2002– 
+
+295 Title:  Dispatches  Director:  Steven Grandison  ProdDate: 1987– 
+
+296 ######### Could not find director #########
+
+297 ######### Could not find director #########
+
+298 ######### Could not find director #########
+
+299 Title:  The Genius of British Art  Director:  Ian MacMillan  ProdDate: 2010– 
+
+300 Title:  The Genius of British Art  Director:  Lucy Swingler  ProdDate: 2010– 
+
+301 ######### Could not find director #########
+
+302 Title:  Imagine  Director:  Peter Sweasey  ProdDate: 2003– 
+
+303 Title:  Simon Schama's Shakespeare  Director:  Ashley Gething  ProdDate: 2012– 
+
+304 Title:  Simon Schama's Shakespeare  Director:  Ashley Gething  ProdDate: 2012– 
+
+305 Title:  David Starkey's Music and Monarchy  Director:  Peter Sweasey  ProdDate: 2013– 
+
+306 Title:  David Starkey's Music and Monarchy  Director:  Peter Sweasey  ProdDate: 2013– 
+
+307 Title:  David Starkey's Music and Monarchy  Director:  Christopher Walker  ProdDate: 2013– 
+
+308 Title:  David Starkey's Music and Monarchy  Director:  Peter Sweasey  ProdDate: 2013– 
+
+309 Title:  The Brits Who Built the Modern World  Director:  Peter Sweasey  ProdDate: 2014– 
+
+310 Title:  The Brits Who Built the Modern World  Director:  Peter Sweasey  ProdDate: 2014– 
+
+311 Title:  The Brits Who Built the Modern World  Director:  Peter Sweasey  ProdDate: 2014– 
+
+312 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+313 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+314 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+315 Close Browser
+
+316 getting page
+
+317 extract text.
+
+318 printing text
+
+319 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+320 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+321 Title:  The Last Days Of  Director:  Ben Mole  ProdDate: 2015– 
+
+322 Title:  The Extraordinary Collector  Director:  Barney Snow  ProdDate: 2016– 
+
+323 Title:  Elizabeth I  Director:  Chris Holt  ProdDate: 2017
+
+324 ######### Could not find director #########
+
+325 Title:  Elizabeth I  Director:  Chris Holt  ProdDate: 2017
+
+326 Close Browser
+
+327 Company Name: Lion_TV_urls
+
+328 getting page
+
+329 extract text.
+
+330 printing text
+
+331 ######### Could not find director #########
+
+332 Title:  First Light  Director:  Matthew Whiteman  ProdDate: 2010 TV Movie
+
+333 ######### Could not find director #########
+
+334 ######### Could not find director #########
+
+335 ######### Could not find director #########
+
+336 ######### Could not find director #########
+
+337 ######### Could not find director #########
+
+338 ######### Could not find director #########
+
+339 ######### Could not find director #########
+
+340 ######### Could not find director #########
+
+341 Title:  The First Emperor  Director:  Nic Young  ProdDate: 2006 TV Movie
+
+342 ######### Could not find director #########
+
+343 ######### Could not find director #########
+
+344 ######### Could not find director #########
+
+345 Title:  Hunt vs Lauda: F1's Greatest Racing Rivals  Director:  Matthew Whiteman  ProdDate: 2013 TV Movie
+
+346 ######### Could not find director #########
+
+347 ######### Could not find director #########
+
+348 ######### Could not find director #########
+
+349 ######### Could not find director #########
+
+350 ######### Could not find director #########
+
+351 ######### Could not find director #########
+
+352 ######### Could not find director #########
+
+353 ######### Could not find director #########
+
+354 ######### Could not find director #########
+
+355 Title:  The Battle of Britain  Director:  Ashley Gething  ProdDate: 2010 TV Movie
+
+356 ######### Could not find director #########
+
+357 ######### Could not find director #########
+
+358 Title:  Animal Farm  Director:  Jeremy Turner  ProdDate: 2007 TV Movie
+
+359 Title:  Lawrence of Arabia: The Battle for the Arab World  Director:  James Hawes  ProdDate: 2003 TV Movie
+
+360 Title:  Martin Luther  Director:  Cassian Harrison  ProdDate: 2002 TV Movie
+
+361 ######### Could not find director #########
+
+362 ######### Could not find director #########
+
+363 ######### Could not find director #########
+
+364 ######### Could not find director #########
+
+365 ######### Could not find director #########
+
+366 ######### Could not find director #########
+
+367 ######### Could not find director #########
+
+368 Title:  The Great Wall of China  Director:  Nic Young  ProdDate: 2007 TV Movie
+
+369 ######### Could not find director #########
+
+370 ######### Could not find director #########
+
+371 ######### Could not find director #########
+
+372 ######### Could not find director #########
+
+373 ######### Could not find director #########
+
+374 Title:  Pompeii: Life & Death in a Roman Town  Director:  Paul Elston  ProdDate: 2010 TV Movie
+
+375 ######### Could not find director #########
+
+376 ######### Could not find director #########
+
+377 ######### Could not find director #########
+
+378 ######### Could not find director #########
+
+379 ######### Could not find director #########
+
+380 Title:  Alexandria: The Greatest City  Director:  Nick Gillam-Smith  ProdDate: 2010 TV Movie
+
+381 Close Browser
+
+382 getting page
+
+383 extract text.
+
+384 printing text
+
+385 Title:  Columbus: The Lost Voyage  Director:  Anna Thomson  ProdDate: 2007 TV Movie
+
+386 Title:  Bastards  Director:  Deborah Perkin  ProdDate: II
+
+387 ######### Could not find director #########
+
+388 ######### Could not find director #########
+
+389 Title:  A Tudor Feast at Christmas  Director:  Chris Mitchell  ProdDate: 2006 TV Movie
+
+390 ######### Could not find director #########
+
+391 ######### Could not find director #########
+
+392 ######### Could not find director #########
+
+393 Title:  Viking Apocalypse  Director:  Stuart Elliott  ProdDate: 2011 TV Movie
+
+394 Title:  Secrets of the Forbidden City  Director:  Mark Lewis  ProdDate: 2008 TV Movie
+
+395 ######### Could not find director #########
+
+396 Title:  Hitler's Victory  Director:  Richard Bond  ProdDate: 2002 TV Movie
+
+397 ######### Could not find director #########
+
+398 Title:  The Mystery of Van Gogh's Ear  Director:  Jack Macinnes  ProdDate: 2016 TV Movie
+
+399 ######### Could not find director #########
+
+400 ######### Could not find director #########
+
+401 ######### Could not find director #########
+
+402 Title:  Athens: The Dawn of Democracy  Director:  Timothy Copestake  ProdDate: 2007 TV Movie
+
+403 Title:  Pompeii: New Secrets Revealed  Director:  Ian A. Hunt  ProdDate: 2016
+
+404 ######### Could not find director #########
+
+405 ######### Could not find director #########
+
+406 Title:  Porn with Attitude  Director:  Elliot Reed  ProdDate: 2005 TV Movie
+
+407 ######### Could not find director #########
+
+408 ######### Could not find director #########
+
+409 ######### Could not find director #########
+
+410 ######### Could not find director #########
+
+411 ######### Could not find director #########
+
+412 ######### Could not find director #########
+
+413 ######### Could not find director #########
+
+414 Title:  Going Medieval  Director:  David Hutt  ProdDate: I
+
+415 Title:  Taxi Dreams  Director:  Joanna Head  ProdDate: 2000 TV Movie
+
+416 Title:  The Great Train Robbery's Missing Mastermind?  Director:  Matthew Whiteman  ProdDate: 2012 TV Movie
+
+417 ######### Could not find director #########
+
+418 ######### Could not find director #########
+
+419 Title:  The Truth About Carbs  Director:  Russell England  ProdDate: 2018 TV Movie
+
+420 Title:  20 Kids and Counting  Director:  Liz Friend  ProdDate: 2018 TV Special
+
+421 Title:  Rome's Sunken Secrets  Director:  Stuart Elliott  ProdDate: 2017 TV Movie
+
+422 ######### Could not find director #########
+
+423 ######### Could not find director #########
+
+424 Title:  The Making of Marc Bolan  Director:  Emma Harpin ProdDate: 2017 TV Movie
+
+425 ######### Could not find director #########
+
+426 ######### Could not find director #########
+
+427 Title:  Murder in Paradise  Director:  Matthew Wortman  ProdDate: 2006 TV Movie
+
+428 ######### Could not find director #########
+
+429 Title:  The World's Most Luxurious Airline  Director:  Charlie Slade  ProdDate: 2018 TV Movie
+
+430 ######### Could not find director #########
+
+431 Title:  Divine Magic: The World of the Supernatural - Messengers of the Gods  Director:  James Hawes  ProdDate: 1996 TV Movie
+
+432 ######### Could not find director #########
+
+433 ######### Could not find director #########
+
+434 ######### Could not find director #########
+
+435 Close Browser
+
+436 getting page
+
+437 extract text.
+
+438 printing text
+
+439 ######### Could not find director #########
+
+440 Title:  Three Kings at War  Director:  Jim Funnell  ProdDate: 2006 TV Movie
+
+441 ######### Could not find director #########
+
+442 ######### Could not find director #########
+
+443 ######### Could not find director #########
+
+444 ######### Could not find director #########
+
+445 ######### Could not find director #########
+
+446 ######### Could not find director #########
+
+447 ######### Could not find director #########
+
+448 ######### Could not find director #########
+
+449 ######### Could not find director #########
+
+450 ######### Could not find director #########
+
+451 ######### Could not find director #########
+
+452 ######### Could not find director #########
+
+453 Title:  The Mafia's Secret Bunkers  Director:  Elena Cosentino  ProdDate: 2013 TV Movie
+
+454 ######### Could not find director #########
+
+455 ######### Could not find director #########
+
+456 Title:  Silbury: The Heart of the Hill  Director:  George Williams  ProdDate: 2007 TV Movie
+
+457 Title:  Always a Bridesmaid  Director:  Cheryl Hess  ProdDate: 2004 TV Movie
+
+458 ######### Could not find director #########
+
+459 ######### Could not find director #########
+
+460 ######### Could not find director #########
+
+461 Title:  The Science of Stress  Director:  Michael Samuels  ProdDate: 2000 TV Movie
+
+462 Title:  Clare Balding's Secrets of a Suffragette  Director:  Harvey Lilley  ProdDate: 2013 TV Special
+
+463 ######### Could not find director #########
+
+464 Title:  Rebuilding the World Trade Center  Director:  Marcus Robinson  ProdDate: 2013 TV Movie
+
+465 Title:  Lethal Attraction: Why Americans Love Guns  Director:  Atul Malhotra  ProdDate: 2004 TV Movie
+
+466 Title:  Uri's Haunted Venice  Director:  Jason Figgis  ProdDate: 2005 TV Movie
+
+467 ######### Could not find director #########
+
+468 Title:  Crash Test Dummies: A Smashing History  Director:  Ian A. Hunt  ProdDate: 2013 TV Movie
+
+469 ######### Could not find director #########
+
+470 Title:  White Men Can't Rap  Director:  Chris Mitchell  ProdDate: 2005 TV Movie
+
+471 ######### Could not find director #########
+
+472 ######### Could not find director #########
+
+473 Title:  Voices of the Great War  Director:  George Pagliero ProdDate: 2005 TV Movie
+
+474 ######### Could not find director #########
+
+475 ######### Could not find director #########
+
+476 ######### Could not find director #########
+
+477 ######### Could not find director #########
+
+478 ######### Could not find director #########
+
+479 ######### Could not find director #########
+
+480 Title:  Mission Hannibal  Director:  Giulia Clark ProdDate: 2018 TV Movie
+
+481 Title:  Travels with My Unfit Mother  Director:  Michael Samuels  ProdDate: 2004 TV Movie
+
+482 ######### Could not find director #########
+
+483 ######### Could not find director #########
+
+484 ######### Could not find director #########
+
+485 Title:  Hannibal's Elephant Army: The New Evidence  Director:  Giulia Clark ProdDate: 2018 TV Movie
+
+486 ######### Could not find director #########
+
+487 ######### Could not find director #########
+
+488 Title:  Guédelon, Renaissance d'un château médiéval  Director:  Lindsay Hill  ProdDate: 2015
+
+489 Close Browser
+
+490 getting page
+
+491 extract text.
+
+492 printing text
+
+493 Title:  Daniel Libeskind: The Making of an Architect  Director:  Christopher Swann  ProdDate: 2007 TV Movie
+
+494 Title:  The Real James Bond's Gadgets  Director:  Carl Hindmarch  ProdDate: 2002 TV Movie
+
+495 ######### Could not find director #########
+
+496 Title:  Real Wizards: The Search for Harry's Ancestors  Director:  Luke Campbell ProdDate: 2001 TV Movie
+
+497 Title:  The Real Amy Johnson  Director:  Michael Davies ProdDate: 2003 TV Movie
+
+498 ######### Could not find director #########
+
+499 Title:  Real Magick  Director:  Luke Campbell
+
+500 Votes: 5 ProdDate: 2001
+
+501 ######### Could not find director #########
+
+502 ######### Could not find director #########
+
+503 Title:  Days That Shook the World  Director:  Dan Clifton  ProdDate: 2003– 
+
+504 Title:  Days That Shook the World  Director:  Dan Clifton  ProdDate: 2003– 
+
+505 Title:  Days That Shook the World  Director:  Tanya Cheadle  ProdDate: 2003– 
+
+506 Title:  Britain's Finest  Director:  Stuart Elliott  ProdDate: 2003– 
+
+507 ######### Could not find director #########
+
+508 Title:  Discovery Atlas  Director:  Nic Young  ProdDate: 2006–2008
+
+509 Title:  The Dark Side of Porn  Director:  Evy Barry  ProdDate: 2005– 
+
+510 Title:  Discovery Atlas  Director:  William Hicklin  ProdDate: 2006–2008
+
+511 Title:  Discovery Atlas  Director:  Cassian Harrison  ProdDate: 2006–2008
+
+512 ######### Could not find director #########
+
+513 ######### Could not find director #########
+
+514 ######### Could not find director #########
+
+515 ######### Could not find director #########
+
+516 ######### Could not find director #########
+
+517 ######### Could not find director #########
+
+518 ######### Could not find director #########
+
+519 ######### Could not find director #########
+
+520 ######### Could not find director #########
+
+521 ######### Could not find director #########
+
+522 ######### Could not find director #########
+
+523 ######### Could not find director #########
+
+524 ######### Could not find director #########
+
+525 ######### Could not find director #########
+
+526 ######### Could not find director #########
+
+527 Title:  Britain's Best  Director:  Ross Bradley  ProdDate: 2007– 
+
+528 Title:  Revealed  Director:  Nicki Stoker  ProdDate: 2002– 
+
+529 Title:  Real Life  Director:  Pip Banyard ProdDate: 1999– 
+
+530 Title:  Dispatches  Director:  Chris Mitchell ProdDate: 1987– 
+
+531 Title:  Days That Shook the World  Director:  Carl Hindmarch  ProdDate: 2003– 
+
+532 Title:  The Tower  Director:  Simon Everson  ProdDate: 2004– 
+
+533 ######### Could not find director #########
+
+534 ######### Could not find director #########
+
+535 ######### Could not find director #########
+
+536 ######### Could not find director #########
+
+537 ######### Could not find director #########
+
+538 Title:  The Tower  Director:  Richard Bond  ProdDate: 2004– 
+
+539 ######### Could not find director #########
+
+540 ######### Could not find director #########
+
+541 Title:  The Diamond Queen  Director:  Sally Norris  ProdDate: 2012– 
+
+542 Title:  My Life  Director:  Rachael Smith ProdDate: 2010– 
+
+543 ######### Could not find director #########
+
+544 Close Browser
+
+545 getting page
+
+546 extract text.
+
+547 printing text
+
+548 Title:  Secret History  Director:  Ian Bremner  ProdDate: 1991– 
+
+549 Title:  Secret History  Director:  Ian Bremner  ProdDate: 1991– 
+
+550 Title:  Dave Gorman: Modern Life Is Goodish  Director:  Paul Wheeler  ProdDate: 2013–2017
+
+551 ######### Could not find director #########
+
+552 Title:  The Truth About Director:  Russell England  ProdDate: 2015– 
+
+553 Title:  Secret History  Director:  Ian Bremner
+
+554 Votes: 6 ProdDate: 1991– 
+
+555 Title:  Diabolical  Director:  Jeremiah Kipp  ProdDate: 2018– 
+
+556 ######### Could not find director #########
+
+557 Title:  Inside the Tower of London  Director:  Luke Korzun Martin  ProdDate: 2018
+
+558 Close Browser
+

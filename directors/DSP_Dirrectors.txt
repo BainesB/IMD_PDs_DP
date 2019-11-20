@@ -1,0 +1,382 @@
+getting page
+extract text.
+printing text
+Title:  127 Hours  Director:  Danny Boyle  ProdDate: 2010
+Title:  Agatha and the Truth of Murder  Director:  Terry Loane  ProdDate: 2018 TV Movie
+Title:  Touching the Void  Director:  Kevin Macdonald  ProdDate: 2003
+######### Could not find director #########
+Title:  The Seeker: The Dark Is Rising  Director:  David L. Cunningham  ProdDate: 2007
+######### Could not find director #########
+Title:  Mermaids: The Body Found  Director:  Sid Bennett  ProdDate: 2011 TV Movie
+Title:  Clapham Junction  Director:  Adrian Shergold  ProdDate: 2007 TV Movie
+Title:  Torvill & Dean  Director:  Gillies MacKinnon  ProdDate: 2018 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Dave Allen at Peace  Director:  Andy De Emmony  ProdDate: 2018 TV Movie
+######### Could not find director #########
+Title:  The Somme  Director:  Carl Hindmarch  ProdDate: 2005 TV Movie
+Title:  We're Doomed! The Dad's Army Story  Director:  Steve Bendelack  ProdDate: 2015 TV Movie
+Title:  Hawking  Director:  Stephen Finnigan  ProdDate: 2013
+######### Could not find director #########
+######### Could not find director #########
+Title:  9/11: The Falling Man  Director:  Henry Singer  ProdDate: 2006 TV Movie
+######### Could not find director #########
+Title:  Micro Men  Director:  Saul Metzstein  ProdDate: 2009 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Sinking of the Lusitania: Terror at Sea  Director:  Christopher Spencer  ProdDate: 2007 TV Movie
+Title:  Dragons: A Fantasy Made Real  Director:  Justin Hardy  ProdDate: 2004 TV Movie
+######### Could not find director #########
+Title:  Dark Horse  Director:  Louise Osmond  ProdDate: 2015
+Title:  The Beckoning Silence  Director:  Louise Osmond  ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  U Be Dead  Director:  Jamie Payne  ProdDate: 2009 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Thrilla in Manila  Director:  John Dower  ProdDate: 2008 TV Movie
+Title:  The Crash  Director:  Sarah Walker  ProdDate: 2013 TV Movie
+Title:  Earth from Space  Director:  Iain Riddick
+Votes: 176 ProdDate: 2012 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Falklands' Most Daring Raid  Director:  Christopher Spencer  ProdDate: 2012 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Tsunami: Caught on Camera  Director:  Janice Sutherland  ProdDate: 2009 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+Title:  The Real Casanova  Director:  Neil Rawles  ProdDate: 2003 TV Movie
+Title:  Futureshock: Comet  Director:  Keith Boak  ProdDate: 2007 TV Movie
+######### Could not find director #########
+Title:  9/11: Phone Calls from the Towers  Director:  James Kent  ProdDate: 2009 TV Movie
+######### Could not find director #########
+Title:  Humanity from Space  Director:  Duncan Copp  ProdDate: 2015 TV Movie
+Title:  Nazi Megastructures: Hitler's War Trains  Director:  Marc Tiley  ProdDate: 2017 TV Movie
+######### Could not find director #########
+Title:  What Killed the Mega Beasts?  Director:  Chris Lent  ProdDate: 2002 TV Movie
+Title:  Richard III: The Princes in the Tower  Director:  Ashley Gething  ProdDate: 2015 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Lost: The Mystery of Flight 447  Director:  Kenny Scott  ProdDate: 2010 TV Movie
+######### Could not find director #########
+Title:  Living the Quake  Director:  Philip Smith  ProdDate: 2006 TV Movie
+Title:  We Built This City: New York  Director:  Alexander Marengo  ProdDate: 2003 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  The World's First Time Machine  Director:  Ben Bowie  ProdDate: 2003 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Station X  Director:  Peter Bate
+Votes: 27 ProdDate: 1999 TV Movie
+######### Could not find director #########
+Title:  Touching the Void: Return to Siula Grande  Director:  Kevin Macdonald  ProdDate: 2004 Video
+Title:  Blitz: London's Firestorm  Director:  Louise Osmond  ProdDate: 2005 TV Movie
+Title:  The Space Shuttle's Last Flight  Director:  Jeremy Hall  ProdDate: 2011 TV Movie
+Title:  The Da Vinci Detective  Director:  Nigel Levy
+Votes: 59 ProdDate: 2006 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  We Built This City: London  Director:  Paul Burgess  ProdDate: 2003 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  World's Biggest Airliner: Building the Airbus A380  Director:  Ben Bowie
+Votes: 13 ProdDate: 2005 TV Movie
+######### Could not find director #########
+Title:  We Built This City: Paris  Director:  Jeremy Llewellyn-Jones  ProdDate: 2008 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Fighting the Red Baron  Director:  Christopher Spencer  ProdDate: 2010 TV Movie
+Title:  The Making of 'Touching the Void'  Director:  Bruno de Almeida  ProdDate: 2003 TV Movie
+Title:  The Gunpowder Plot: Exploding the Legend  Director:  Mike Slee  ProdDate: 2005 TV Movie
+######### Could not find director #########
+Title:  Bootcamp  Director:  Norman Hull ProdDate: 1999
+Title:  9/11: Heroes of the 88th Floor: People Helping People  Director:  James Quinn  ProdDate: 2011 TV Movie
+Title:  Teenage Japanese Killers  Director:  Neil Rawles  ProdDate: 2000 TV Movie
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+######### Could not find director #########
+Title:  The Secret Diary of the Holocaust  Director:  Alexander Marengo  ProdDate: 2009 TV Movie
+Title:  WW1: Finding the Lost Battalions  Director:  Janice Sutherland  ProdDate: 2010 TV Movie
+Title:  Children of 9/11  Director:  Janice Sutherland  ProdDate: 2011 TV Movie
+Title:  Strange World of Barry Who  Director:  Margy Kinmonth ProdDate: 2004 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Concorde's Last Flight  Director:  Christopher Spencer  ProdDate: 2010 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  The Blitz: London's Longest Night  Director:  Louise Osmond  ProdDate: 2005 TV Movie
+######### Could not find director #########
+Title:  The Day of the Kamikaze  Director:  Peter Nicholson  ProdDate: 2008 TV Movie
+######### Could not find director #########
+Title:  Assault on Waco  Director:  Neil Rawles  ProdDate: 2006 TV Movie
+######### Could not find director #########
+Title:  Nazi Death Camp: The Great Escape  Director:  Hereward Pelling ProdDate: 2014 TV Movie
+Title:  Looking for Elizabeth  Director:  James Kent  ProdDate: 2005 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  My 40-Year-Old Child  Director:  Sean Smith  ProdDate: 2010 TV Movie
+######### Could not find director #########
+Title:  Roman Vice  Director:  Peter Swain  ProdDate: 2005 TV Movie
+Title:  9/11: Voices from the Air  Director:  Stephen Finnigan  ProdDate: 2012 TV Movie
+Title:  A Great British Air Disaster  Director:  Anna Thomson  ProdDate: 2013 TV Movie
+######### Could not find director #########
+Title:  Can It Be Built?: World's Tallest Skyscraper  Director:  Simon Young ProdDate: 2012 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Journey to the Heart of the Tsunami: Unstoppable Wave  Director:  Ed Wardle ProdDate: 2005 TV Movie
+Title:  Young Elvis in Colour  Director:  Alexander Marengo  ProdDate: 2007 TV Movie
+Title:  My Kid Survived  Director:  James Erskine  ProdDate: 2010 TV Movie
+Title:  Phil Spector's Demons  Director:  Jeremy Marre  ProdDate: 2007 TV Movie
+Title:  Word of the Year 2017  Director:  Emily Kennedy  ProdDate: 2017 TV Movie
+Title:  My Brand New Face  Director:  Tom Peppiatt  ProdDate: 2010 TV Movie
+Title:  Britain's Killer Storms  Director:  Stephen Finnigan ProdDate: 2013 TV Movie
+Title:  Decoding Nazi Secrets  Director:  Peter Bate  ProdDate: 1999 TV Movie
+######### Could not find director #########
+Title:  How to Build a Bionic Man  Director:  Tom Coveney  ProdDate: 2013 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Out of the Wreckage: Plane Crash Survivors  Director:  Christopher Martin  ProdDate: 2009 TV Movie
+######### Could not find director #########
+Title:  The Boy with Bloody Tears  Director:  Tom Peppiatt ProdDate: 2010 TV Movie
+######### Could not find director #########
+Close Browser
+getting page
+extract text.
+printing text
+Title:  Turin Shroud: New Evidence  Director:  Michael Epstein  ProdDate: 2009 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Airplanski!  Director:  Norman Hull
+Votes: 7 ProdDate: 1995 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  What the Green Movement Got Wrong  Director:  Louise Osmond  ProdDate: 2010
+Title:  Hasselhoff vs Director:  Gary Johnstone  ProdDate: 2014 TV Movie
+######### Could not find director #########
+Title:  My Skin Is Killing Me  Director:  Nic Guttridge  ProdDate: 2010 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Buildings in the Name of God  Director:  Jobim Sampson ProdDate: 2005 TV Movie
+######### Could not find director #########
+Title:  Britain's Lost Roman Wonder  Director:  Jonathan Dent ProdDate: 2003 TV Movie
+Title:  Ultimate Rock Climb  Director:  Paul Copeland  ProdDate: 2007 TV Movie
+Title:  How the Twin Towers Collapsed  Director:  Ben Bowie ProdDate: 2001 TV Movie
+Title:  Lost Ship of Henry VIII  Director:  Peter Bate  ProdDate: TV Movie
+######### Could not find director #########
+Title:  One Year to Go: Building Stratford  Director:  Jo Locke ProdDate: 2011
+Title:  Rosetta: Comet Landing  Director:  Rory Griffin ProdDate: 2014 TV Movie
+######### Could not find director #########
+Title:  What Sank the Mary Rose?  Director:  Peter Bate  ProdDate: 2000 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  Why Men Leave  Director:  Helen Hill ProdDate: 2001
+Title:  The Fight for Baghdad  Director:  Tim Pritchard ProdDate: 2004 TV Movie
+Title:  Collapse: Failure by Design  Director:  Paul Mitchell ProdDate: 2000 Video
+######### Could not find director #########
+######### Could not find director #########
+Title:  600 Pound Mom  Director:  Deborah Lovett  ProdDate: 2011 TV Movie
+######### Could not find director #########
+######### Could not find director #########
+Title:  I Shouldn't Be Alive  Director:  Renny Bartlett  ProdDate: 2005– 
+Title:  The Dark Side of Porn  Director:  David Barrie
+Votes: 47 ProdDate: 2005– 
+Title:  Seconds from Disaster  Director:  Maninderpal Sahota  ProdDate: 2004–2012
+Title:  Seconds from Disaster  Director:  Alexander Dunlop  ProdDate: 2004–2012
+Title:  Megastructures  Director:  Jessica Bassett  ProdDate: 2004– 
+Title:  Megastructures  Director:  Jeremy Hall  ProdDate: 2004– 
+Title:  Megastructures  Director:  Chris Lent  ProdDate: 2004– 
+Title:  Megastructures  Director:  Jeremy Hall  ProdDate: 2004– 
+Title:  Megastructures  Director:  Ian Holt  ProdDate: 2004– 
+Title:  Megastructures  Director:  Thomas Viner  ProdDate: 2004– 
+Title:  Seconds from Disaster  Director:  Chris Walker  ProdDate: 2004–2012
+Title:  The New Detectives: Case Studies in Forensic Science  Director:  Jonathan Hacker  ProdDate: 1996–2005
+Title:  Situation Critical  Director:  Tim Conrad  ProdDate: 2007– 
+######### Could not find director #########
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Situation Critical  Director:  Jim Nally  ProdDate: 2007– 
+Title:  Modern Marvels  Director:  Martin O'Collins  ProdDate: 1993– 
+Title:  Situation Critical  Director:  Tim Conrad  ProdDate: 2007– 
+Title:  Modern Marvels  Director:  Martin O'Collins  ProdDate: 1993– 
+Title:  True Heroes  Director:  Mary Downes  ProdDate: 2008– 
+######### Could not find director #########
+Title:  Unsolved History  Director:  Ed Wardle  ProdDate: 2002– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Into the Unknown with Josh Bernstein  Director:  Mike Slee  ProdDate: 2008– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Into the Unknown with Josh Bernstein  Director:  Mike Slee  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Kenny Scott  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+Title:  The Diary of Anne Frank  Director:  Jon Jones  ProdDate: 2009
+Title:  National Geographic: Engineering the Impossible  Director:  Kate Haddock  ProdDate: 2007– 
+######### Could not find director #########
+Title:  Cutting Edge  Director:  Louise Osmond  ProdDate: 1990– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Bloody Foreigners  Director:  Carl Hindmarch  ProdDate: 2010– 
+Title:  Why Doctors Make Mistakes  Director:  Philip Day ProdDate: 2000– 
+Title:  Why Doctors Make Mistakes  Director:  Philip Day ProdDate: 2000– 
+Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+Close Browser
+getting page
+extract text.
+printing text
+Title:  Engineering Connections  Director:  Fred Aidroos  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+Title:  I Shouldn't Be Alive  Director:  Tim Conrad  ProdDate: 2005– 
+Title:  I Shouldn't Be Alive  Director:  Tim Conrad  ProdDate: 2005– 
+Title:  Engineering Connections  Director:  Nick Metcalfe  ProdDate: 2008– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Stephen Hawking's Universe  Director:  Martin Williams  ProdDate: 2010– 
+Title:  Driven  Director:  Adrian Vitoria  ProdDate: 1998–2002
+######### Could not find director #########
+######### Could not find director #########
+Title:  Black Box  Director:  Peter Bate ProdDate: 1996– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Witness  Director:  Jane Beckwith ProdDate: 1993– 
+######### Could not find director #########
+Title:  Secret History  Director:  Clara Glynn  ProdDate: 1991– 
+######### Could not find director #########
+Title:  Engineering Connections  Director:  Jake Cardew  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Jake Cardew  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+Title:  Engineering Connections  Director:  Mike Slee  ProdDate: 2008– 
+######### Could not find director #########
+Title:  Megastructures  Director:  James Bates
+Votes: 9 ProdDate: 2004– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  I Shouldn't Be Alive  Director:  Neil Rawles  ProdDate: 2005– 
+Title:  I Shouldn't Be Alive  Director:  Katinka Newman  ProdDate: 2005– 
+######### Could not find director #########
+Title:  I Shouldn't Be Alive  Director:  Simon George  ProdDate: 2005– 
+Title:  Revelations  Director:  Claudio von Planta  ProdDate: 2009– 
+Title:  Seconds from Disaster  Director:  Steve Webb  ProdDate: 2004–2012
+Title:  Nova  Director:  Oliver Twinch  ProdDate: 1974– 
+Title:  I Shouldn't Be Alive  Director:  James Erskine  ProdDate: 2005– 
+Title:  Man Made Marvels  Director:  Jo Locke ProdDate: 2008– 
+Title:  How Hard Can It Be?  Director:  Jerry McNutt  ProdDate: 2011– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Stephen Hawking's Grand Design  Director:  Matthew Huntley  ProdDate: 2012– 
+Title:  Stephen Hawking's Grand Design  Director:  Dan Clifton  ProdDate: 2012– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Title:  Seconds from Disaster  Director:  Sean Smith  ProdDate: 2004–2012
+Title:  Megafactories  Director:  Sam Taplin  ProdDate: 2007–2013
+Title:  Megafactories  Director:  Pete Woods  ProdDate: 2007–2013
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Close Browser
+getting page
+extract text.
+printing text
+######### Could not find director #########
+######### Could not find director #########
+Title:  Top Secrets  Director:  Simon Martin  ProdDate: 2013– 
+Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+######### Could not find director #########
+Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+Title:  The Mill  Director:  James Hawes  ProdDate: 2013– 
+Title:  Future Firepower  Director:  Stuart Rose ProdDate: 2013– 
+######### Could not find director #########
+Title:  Dead or Alive  Director:  Jamie Crawford  ProdDate: 2013– 
+######### Could not find director #########
+Title:  Dead or Alive  Director:  Anne Sommerfield  ProdDate: 2013– 
+Title:  Dead or Alive  Director:  Anne Sommerfield ProdDate: 2013– 
+Title:  Dead or Alive  Director:  Jamie Crawford  ProdDate: 2013– 
+######### Could not find director #########
+Title:  Nazi Mega Weapons  Director:  Christopher Spencer  ProdDate: 2013– 
+######### Could not find director #########
+######### Could not find director #########
+Title:  Nazi Mega Weapons  Director:  Steve Baker  ProdDate: 2013– 
+Title:  Nazi Mega Weapons  Director:  Steve Baker  ProdDate: 2013– 
+Title:  The Mill  Director:  Susan Tully  ProdDate: 2013– 
+Title:  The Mill  Director:  Susan Tully  ProdDate: 2013– 
+Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+Title:  The Mill  Director:  Bill Anderson  ProdDate: 2013– 
+Title:  Future Firepower  Director:  Stuart Rose  ProdDate: 2013– 
+Title:  Secrets of the Dead  Director:  Gary Johnstone  ProdDate: 2000– 
+Title:  Curiosity  Director:  Richard Max  ProdDate: 2011– 
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+######### Could not find director #########
+Close Browser

@@ -1,0 +1,29 @@
+
+> build a DB of people that I want to speak to in TV. 
+
+>find there contact on facebook. 
+>if you you can't find them on facebook, see if you can find a personal website and contact detail with google. 
+
+
+>>I have got the ProdName, DirectorName and the year in the text doc. 
+
+	I think some extra stuff has got in. Not sure if it matters. 
+
+
+
+Then I want it to grab all the crew. 
+
+I want it to get the name before 'production manager' and dump that in a data base
+ 
+>> i've been able to grab the crew names and the credits. I have to put the two list back together. 
+
+
+20 Aug 2019:
+
+I have got a crawler working and built a scraper for the dirrectors. 
+
+So I should be able to attack my crawler to a scraper and get the production managers out. 
+
+The slight problem is there are often more than one. And that doesn't make much sence to me. 
+
+

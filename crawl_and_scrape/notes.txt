@@ -1,0 +1,17 @@
+
+It would be good to speed it up a bit. 
+
+Now i need to think about how i want to save the data in a sqlite file 
+
+Then i want to break up the title list so that I can  do it in chuncks when i'm out and about. 
+
+## had an idea. watched Gardeners World. Heard that Monty Dons sister broke her neck in car crash. 
+
+## I could scrape imdb to get a list of celebrities. 
+
+## Then automate going to the the celebrities wiki page. 
+
+## The create list celebirties where 'car crash' appears on their page. 
+
+This could give me a lsit of ppl to contact about road violence. 
+

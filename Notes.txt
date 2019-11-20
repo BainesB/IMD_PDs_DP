@@ -1,0 +1,14 @@
+I have written a script.
+
+
+It goes to IMDB and enters the name of a productions. Then it clicks the first result that tha contains the name of the production. Then when the page has refreshed it click the full cast and crew. 
+
+
+Now I want to create a production Manager DB. I want to store: 
+
+PM's Name: xxx Production Title: xxxx Company name: xxxx 
+
+This means that I will be able to write to them in the way I wrote to the PD's and tell them that I've worked for the same companies as them. 
+
+
+
